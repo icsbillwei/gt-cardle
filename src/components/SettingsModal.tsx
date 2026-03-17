@@ -130,11 +130,17 @@ export function SettingsModal({
                          focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500/50"
             >
               <option value="Road">Road cars only</option>
+              <option value="Race">Race cars only</option>
+              <option value="Tuner">Tuner cars only</option>
               <option value="All">Everything</option>
             </select>
             <p className="text-xs text-white/40">
               {carTypeFilter === 'Road' 
                 ? 'Only includes Street cars' 
+                : carTypeFilter === 'Race'
+                ? 'Only includes Race cars'
+                : carTypeFilter === 'Tuner'
+                ? 'Only includes Tuned cars'
                 : 'Includes Street, Race, and Tuned cars'}
             </p>
           </div>

@@ -88,10 +88,17 @@ function parseCSVData(results: Papa.ParseResult<ParsedRow>): Car[] {
 }
 
 function filterCars(cars: Car[], filter: CarTypeFilter): Car[] {
-  if (filter === 'Road') {
-    return cars.filter(car => car.carType === 'Street');
+  switch (filter) {
+    case 'Road':
+      return cars.filter(car => car.carType === 'Street');
+    case 'Race':
+      return cars.filter(car => car.carType === 'Race');
+    case 'Tuner':
+      return cars.filter(car => car.carType === 'Tuned');
+    case 'All':
+    default:
+      return cars;
   }
-  return cars;
 }
 
 function selectTargetCar(cars: Car[], seed: string): Car {

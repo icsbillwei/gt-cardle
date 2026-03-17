@@ -25,7 +25,7 @@ export interface Guess extends Car {
   };
 }
 
-export type CarTypeFilter = 'Road' | 'All';
+export type CarTypeFilter = 'Road' | 'Race' | 'Tuner' | 'All';
 
 export interface GameSettings {
   seed: string;
