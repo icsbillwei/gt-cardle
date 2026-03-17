@@ -1,0 +1,986 @@
+,brand,model,car_type,img_url,price,drive,hp,weight,torque,w_kg,year
+0,AC Cars,427 S/C ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0004.jpg,423200.0,FR,478.0,1311.0,651.0,272 to ? W/Kg,1966.0
+3,Abarth,500 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0002.jpg,29500.0,FF,133.0,1035.0,180.0,96 to 251 W/Kg,2009.0
+4,Abarth,Grande Punto ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0003.jpg,27000.0,FF,153.0,1240.0,230.0,92 to ? W/Kg,2009.0
+5,Acura,CL 3.2 Type-S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1008.jpg,32180.0,FF,260.0,1592.0,315.0,122 to ? W/Kg,2001.0
+6,Acura,CL 3.2 Type-S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1009.jpg,32420.0,FF,260.0,1563.0,314.0,124 to 251 W/Kg,2003.0
+9,Acura,INTEGRA TYPE R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1007.jpg,25940.0,FF,195.0,1197.0,176.0,122 to 254 W/Kg,2001.0
+10,Acura,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1012.jpg,94440.0,MR,290.0,1430.0,304.0,151 to 291 W/Kg,2004.0
+11,Acura,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1010.jpg,80000.0,MR,270.0,1365.0,284.0,148 to 302 W/Kg,1991.0
+13,Acura,NSX Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1011.jpg,89130.0,MR,290.0,1392.0,304.0,155 to ? W/Kg,1997.0
+15,Acura,RSX Type-S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1006.jpg,24740.0,FF,200.0,1255.0,192.0,119 to ? W/Kg,2004.0
+16,Alfa Romeo,147 2.0 TWIN SPARK ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0008.jpg,30590.0,FF,148.0,1280.0,181.0,86 to ? W/Kg,2002.0
+17,Alfa Romeo,147 GTA ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0017.jpg,48040.0,FF,246.0,1360.0,300.0,135 to 278 W/Kg,2002.0
+18,Alfa Romeo,147 TI 2.0 TWIN SPARK ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0007.jpg,31400.0,FF,148.0,1280.0,180.0,86 to ? W/Kg,2006.0
+19,Alfa Romeo,155 2.5 V6 TI ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0020.jpg,1250000.0,4WD,414.0,1010.0,294.0,306 to 463 W/Kg,1993.0
+20,Alfa Romeo,156 2.5 V6 24V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0012.jpg,40230.0,FF,187.0,1320.0,221.0,106 to ? W/Kg,1998.0
+21,Alfa Romeo,166 2.5 V6 24V Sportronic ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0009.jpg,58710.0,FF,187.0,1520.0,221.0,92 to 297 W/Kg,1998.0
+22,Alfa Romeo,8C Competizione ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0019.jpg,220000.0,FR,444.0,1585.0,480.0,209 to 401 W/Kg,2008.0
+23,Alfa Romeo,Brera Sky Window 3.2 JTS Q4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0015.jpg,64900.0,4WD,256.0,1750.0,321.0,109 to 322 W/Kg,2006.0
+25,Alfa Romeo,GT 3.2 V6 24V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0016.jpg,39010.0,FF,237.0,1347.0,300.0,131 to ? W/Kg,2004.0
+26,Alfa Romeo,GTV 3.0 V6 24V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0014.jpg,49060.0,FF,217.0,1415.0,265.0,114 to 277 W/Kg,2001.0
+27,Alfa Romeo,Giulia Sprint GTA 1600 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0010.jpg,113010.0,FR,113.0,745.0,143.0,114 to 322 W/Kg,1965.0
+28,Alfa Romeo,Giulia Sprint Speciale ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0006.jpg,62040.0,FR,110.0,950.0,131.0,86 to 199 W/Kg,1963.0
+29,Alfa Romeo,MiTo 1.4 T Sport ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0011.jpg,28500.0,FF,153.0,1145.0,201.0,100 to 227 W/Kg,2009.0
+30,Alfa Romeo,Spider 1600 Duetto ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0005.jpg,35300.0,FR,108.0,960.0,139.0,84 to 199 W/Kg,1966.0
+31,Alfa Romeo,Spider 3.0i V6 24V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0013.jpg,51190.0,FF,215.0,1450.0,265.0,110 to 259 W/Kg,2001.0
+32,Alfa Romeo,TZ3 Stradale ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0021.jpg,605000.0,FR,582.0,1552.0,760.0,280 to ? W/Kg,2011.0
+36,Alpine,A310 1600VE ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0022.jpg,33000.0,RR,123.0,930.0,148.0,99 to 233 W/Kg,1973.0
+39,Amuse,Carbon R (R34) ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0317.jpg,250000.0,FR,513.0,1123.0,511.0,340 to 490 W/Kg,2004.0
+43,Amuse,S2000 R1 ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0315.jpg,125000.0,FR,259.0,1120.0,235.0,172 to ? W/Kg,2004.0
+46,Aston Martin,DB7 Vantage Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0025.jpg,194260.0,FR,420.0,1775.0,542.0,176 to 374 W/Kg,2000.0
+47,Aston Martin,DB9 Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0027.jpg,164470.0,FR,450.0,1710.0,569.0,196 to ? W/Kg,2003.0
+48,Aston Martin,DB9 Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0028.jpg,181860.0,FR,450.0,1710.0,569.0,196 to 374 W/Kg,2006.0
+50,Aston Martin,One-77 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0031.jpg,1320000.0,FR,749.0,1630.0,750.0,343 to ? W/Kg,2011.0
+51,Aston Martin,V12 Vantage ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0030.jpg,217350.0,FR,510.0,1680.0,570.0,226 to 396 W/Kg,2010.0
+52,Aston Martin,V8 Vantage ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0029.jpg,448000.0,FR,550.0,1970.0,745.0,208 to ? W/Kg,1999.0
+53,Aston Martin,Vanquish ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0026.jpg,238750.0,FR,459.0,1835.0,542.0,187 to ? W/Kg,2004.0
+54,Audi,A2 1.4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0032.jpg,22400.0,FF,74.0,920.0,126.0,60 to 242 W/Kg,2002.0
+55,Audi,A3 3.2 quattro ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0037.jpg,42490.0,4WD,246.0,1495.0,320.0,123 to 269 W/Kg,2003.0
+56,Audi,A4 Touring Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0052.jpg,1000000.0,FR,454.0,1080.0,500.0,313 to ? W/Kg,2004.0
+59,Audi,Le Mans quattro ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0054.jpg,1250000.0,4WD,601.0,1530.0,750.0,293 to ? W/Kg,2003.0
+62,Audi,R10 TDI ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0064.jpg,1980000.0,MR,650.0,925.0,1100.0,524 to 1010 W/Kg,2006.0
+64,Audi,R18 TDI (Audi Sport Team Joest) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0061.jpg,2000000.0,MR,532.0,900.0,900.0,441 to 697 W/Kg,2011.0
+66,Audi,R18 TDI Prototype ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0062.jpg,2000000.0,MR,517.0,900.0,900.0,428 to 663 W/Kg,2011.0
+67,Audi,R8 (Audi PlayStation Team ORECA) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0066.jpg,1900000.0,MR,580.0,950.0,784.0,455 to ? W/Kg,2005.0
+68,Audi,R8 4.2 FSI R tronic ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0046.jpg,166700.0,4WD,414.0,1560.0,430.0,198 to ? W/Kg,2007.0
+69,Audi,R8 5.2 FSI quattro ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0049.jpg,199400.0,4WD,518.0,1620.0,530.0,238 to 656 W/Kg,2009.0
+73,Audi,R8 LMS - Team Oreca ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0055.jpg,1575000.0,MR,560.0,1340.0,500.0,312 to 528 W/Kg,2010.0
+74,Audi,R8 LMS ultra ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0058.jpg,400000.0,MR,562.0,1250.0,500.0,335 to ? W/Kg,2012.0
+75,Audi,R8 LMS ultra (Audi Sport Team Phoenix) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0059.jpg,400000.0,MR,562.0,1250.0,500.0,335 to 573 W/Kg,2012.0
+77,Audi,R8 Race Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0067.jpg,1925000.0,MR,759.0,900.0,700.0,629 to ? W/Kg,2001.0
+78,Audi,RS 4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0042.jpg,41380.0,4WD,380.0,1620.0,440.0,175 to ? W/Kg,2001.0
+79,Audi,RS 6 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0044.jpg,117060.0,4WD,444.0,1840.0,560.0,180 to ? W/Kg,2002.0
+80,Audi,RS 6 Avant ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0043.jpg,117060.0,4WD,444.0,1880.0,560.0,176 to ? W/Kg,2002.0
+81,Audi,RS 6 Avant ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0047.jpg,166000.0,4WD,572.0,2025.0,650.0,211 to 524 W/Kg,2008.0
+82,Audi,S3 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0034.jpg,41070.0,4WD,221.0,1420.0,280.0,116 to 266 W/Kg,2002.0
+83,Audi,S4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0041.jpg,55430.0,4WD,339.0,1660.0,410.0,152 to ? W/Kg,2003.0
+84,Audi,S4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0038.jpg,71220.0,4WD,261.0,1510.0,400.0,129 to 419 W/Kg,1998.0
+85,Audi,Sport quattro S1 Pikes Peak ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0063.jpg,1450000.0,4WD,590.0,1000.0,590.0,440 to 478 W/Kg,1987.0
+86,Audi,Sport quattro S1 Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0050.jpg,1450000.0,4WD,455.0,1090.0,480.0,312 to ? W/Kg,1986.0
+88,Audi,TT Coupe 1.8T quattro ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0035.jpg,47700.0,4WD,222.0,1395.0,280.0,118 to 275 W/Kg,2000.0
+89,Audi,TT Coupe 3.2 quattro ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0036.jpg,57740.0,4WD,246.0,1520.0,320.0,121 to 268 W/Kg,2003.0
+90,Audi,TT Coupe 3.2 quattro ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0039.jpg,59000.0,4WD,246.0,1410.0,319.0,130 to 291 W/Kg,2007.0
+91,Audi,TTS Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0040.jpg,68000.0,4WD,268.0,1415.0,350.0,141 to 330 W/Kg,2009.0
+92,Audi,quattro ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0033.jpg,90360.0,4WD,200.0,1290.0,289.0,116 to 304 W/Kg,1982.0
+93,Autobacs,ARTA Garaiya ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0321.jpg,250000.0,MR,296.0,1125.0,490.0,196 to ? W/Kg,2003.0
+94,Autobacs,ARTA Garaiya ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0322.jpg,500000.0,MR,296.0,1175.0,392.0,188 to 442 W/Kg,2008.0
+95,Autobacs,Garaiya ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0320.jpg,65000.0,MR,201.0,800.0,206.0,188 to ? W/Kg,2002.0
+96,Autobacs,Garaiya GT300 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0323.jpg,500000.0,MR,296.0,1175.0,392.0,188 to 442 W/Kg,2008.0
+97,Autobianchi,A112 Abarth ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0068.jpg,39430.0,FF,70.0,700.0,85.0,74 to 273 W/Kg,1979.0
+98,Ayrton Senna,DAP Racing Kart #17 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1343.jpg,100000.0,MR,30.0,63.0,12.0,349 to 349 W/Kg,1980.0
+99,Ayrton Senna,LOTUS 97T ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1345.jpg,3000000.0,MR,999.0,540.0,667.0,1380 to 1450 W/Kg,1985.0
+101,BLITZ,DUNLOP ER34 SKYLINE ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0325.jpg,250000.0,FR,565.0,1252.0,680.0,336 to ? W/Kg,2007.0
+103,BMW,120d ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0073.jpg,33020.0,FR,161.0,1415.0,340.0,85 to ? W/Kg,2004.0
+104,BMW,120i ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0071.jpg,31940.0,FR,148.0,1335.0,200.0,82 to ? W/Kg,2004.0
+105,BMW,135i Coupé ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0078.jpg,64300.0,FR,302.0,1560.0,400.0,144 to 383 W/Kg,2007.0
+106,BMW,2002 Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0072.jpg,56800.0,FR,170.0,1080.0,240.0,118 to ? W/Kg,1973.0
+107,BMW,320i Touring Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0077.jpg,200000.0,FR,256.0,1140.0,225.0,168 to 318 W/Kg,2003.0
+108,BMW,330i ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0075.jpg,48040.0,FR,254.0,1525.0,300.0,125 to 266 W/Kg,2005.0
+109,BMW,507 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0070.jpg,85000.0,FR,148.0,1240.0,235.0,89 to 287 W/Kg,1957.0
+111,BMW,E92 M3 (BMW Motorsport) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0090.jpg,350000.0,FR,500.0,1245.0,500.0,300 to ? W/Kg,2010.0
+112,BMW,M Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0076.jpg,78900.0,FR,316.0,1465.0,350.0,161 to ? W/Kg,1998.0
+113,BMW,M3 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0081.jpg,74560.0,FR,338.0,1570.0,365.0,161 to 303 W/Kg,2004.0
+114,BMW,M3 CSL ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0084.jpg,113610.0,FR,355.0,1385.0,370.0,191 to 340 W/Kg,2003.0
+115,BMW,M3 Coupé ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0083.jpg,92400.0,FR,414.0,1655.0,400.0,187 to 346 W/Kg,2007.0
+117,BMW,M3 GT (BMW Motorsport) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0091.jpg,350000.0,FR,500.0,1245.0,500.0,300 to ? W/Kg,2011.0
+118,BMW,M3 GT2 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1207.jpg,350000.0,FR,500.0,1245.0,500.0,300 to ? W/Kg,2011.0
+119,BMW,M3 GTR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0086.jpg,341020.0,FR,375.0,1350.0,390.0,207 to ? W/Kg,2003.0
+120,BMW,M3 GTR Race Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0089.jpg,1000000.0,FR,444.0,1120.0,480.0,296 to ? W/Kg,2001.0
+123,BMW,M5 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0088.jpg,116650.0,FR,500.0,1715.0,520.0,217 to ? W/Kg,2005.0
+124,BMW,M5 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0087.jpg,137000.0,FR,500.0,1855.0,520.0,201 to 416 W/Kg,2008.0
+126,BMW,V12 LMR ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0094.jpg,1900000.0,MR,572.0,900.0,670.0,474 to 808 W/Kg,1999.0
+128,BMW,Z4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0074.jpg,38600.0,FR,228.0,1365.0,300.0,125 to ? W/Kg,2003.0
+129,BMW,Z4 GT3 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0092.jpg,350000.0,FR,508.0,1190.0,515.0,318 to ? W/Kg,2011.0
+130,BMW,Z4 M Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0080.jpg,69500.0,FR,338.0,1495.0,365.0,169 to ? W/Kg,2008.0
+131,BMW,Z8 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0082.jpg,166000.0,FR,394.0,1610.0,500.0,183 to ? W/Kg,2001.0
+133,Bentley,Speed 8 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0069.jpg,1900000.0,MR,623.0,900.0,760.0,517 to ? W/Kg,2003.0
+134,Bugatti,Veyron 16.4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0095.jpg,2000000.0,4WD,956.0,1888.0,1254.0,378 to ? W/Kg,2009.0
+135,Bugatti,Veyron 16.4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0096.jpg,2000000.0,4WD,956.0,1888.0,1254.0,378 to 703 W/Kg,2013.0
+136,Buick,GNX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1019.jpg,31080.0,FR,276.0,1600.0,488.0,129 to ? W/Kg,1987.0
+139,Cadillac,CTS-V Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1021.jpg,90000.0,FR,556.0,1940.0,746.0,214 to ? W/Kg,2011.0
+140,Callaway,C12 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1023.jpg,175880.0,FR,433.0,1480.0,520.0,218 to ? W/Kg,2003.0
+141,Caterham,Seven Fireblade ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0097.jpg,60000.0,FR,138.0,369.0,122.0,279 to 552 W/Kg,2002.0
+142,Chaparral,2D ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1024.jpg,3750000.0,MR,420.0,924.0,515.0,339 to ? W/Kg,1967.0
+160,Chevrolet,Camaro IROC-Z Concept ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1028.jpg,45000.0,FR,230.0,1468.0,447.0,116 to ? W/Kg,1988.0
+162,Chevrolet,Camaro SS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1035.jpg,22150.0,FR,319.0,1560.0,350.0,153 to ? W/Kg,2000.0
+163,Chevrolet,Camaro SS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1043.jpg,35000.0,FR,426.0,1755.0,569.0,181 to 422 W/Kg,2010.0
+164,Chevrolet,Camaro SS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1031.jpg,60000.0,FR,300.0,1401.0,515.0,160 to ? W/Kg,1969.0
+166,Chevrolet,Camaro Z28 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1032.jpg,65000.0,FR,290.0,1415.0,393.0,153 to ? W/Kg,1969.0
+167,Chevrolet,Camaro Z28 Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1030.jpg,24110.0,FR,285.0,1561.0,440.0,136 to ? W/Kg,1997.0
+169,Chevrolet,Chevelle SS 454 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1042.jpg,70000.0,FR,450.0,1762.0,677.0,190 to ? W/Kg,1970.0
+170,Chevrolet,Corvette C5-R (C5) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1054.jpg,1450000.0,FR,620.0,1139.0,670.0,406 to ? W/Kg,2000.0
+172,Chevrolet,Corvette Convertible (C1 ) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1026.jpg,100000.0,FR,150.0,1309.0,302.0,86 to ? W/Kg,1954.0
+173,Chevrolet,Corvette Coupe (C2) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1029.jpg,84890.0,FR,249.0,1370.0,474.0,136 to ? W/Kg,1963.0
+175,Chevrolet,Corvette GRAND SPORT (C4) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1037.jpg,45900.0,FR,330.0,1496.0,461.0,164 to ? W/Kg,1996.0
+176,Chevrolet,Corvette StingRay Racer Concept ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1039.jpg,500000.0,FR,305.0,1150.0,400.0,197 to ? W/Kg,1959.0
+177,Chevrolet,Corvette Stingray (C7) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1046.jpg,51000.0,FR,440.0,1500.0,623.0,219 to 558 W/Kg,2014.0
+179,Chevrolet,Corvette Stingray Convertible (C3) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1034.jpg,50000.0,FR,300.0,1552.0,515.0,144 to ? W/Kg,1969.0
+180,Chevrolet,Corvette Stingray Gran Turismo Concept ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1237.jpg,65000.0,FR,454.0,1500.0,623.0,225 to 555 W/Kg,2013.0
+181,Chevrolet,Corvette Stingray L46 350 (C3) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1036.jpg,71500.0,FR,350.0,1490.0,515.0,175 to ? W/Kg,1969.0
+183,Chevrolet,Corvette Z06 (C5) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1044.jpg,53570.0,FR,380.0,1409.0,485.0,201 to ? W/Kg,2000.0
+184,Chevrolet,Corvette Z06 (C5) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1045.jpg,54200.0,FR,405.0,1414.0,542.0,214 to ? W/Kg,2004.0
+185,Chevrolet,Corvette Z06 (C6) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1049.jpg,94500.0,FR,504.0,1421.0,636.0,265 to ? W/Kg,2006.0
+187,Chevrolet,Corvette ZR-1 (C4) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1041.jpg,82000.0,FR,375.0,1600.0,503.0,174 to ? W/Kg,1990.0
+188,Chevrolet,Corvette ZR1 (C6) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1050.jpg,184800.0,FR,638.0,1508.0,818.0,316 to 649 W/Kg,2009.0
+190,Chevrolet,El Camino SS 396 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1033.jpg,30000.0,FR,325.0,1468.0,555.0,166 to ? W/Kg,1967.0
+191,Chevrolet,Nova SS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1038.jpg,65000.0,FR,375.0,1590.0,563.0,175 to ? W/Kg,1970.0
+192,Chevrolet,SSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1027.jpg,44560.0,FR,290.0,2248.0,440.0,96 to ? W/Kg,2003.0
+193,Chevrolet,Silverado SST ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1040.jpg,95000.0,FR,480.0,2268.0,644.0,158 to ? W/Kg,2002.0
+194,Chrysler,300C ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1065.jpg,34780.0,FR,340.0,1878.0,528.0,135 to ? W/Kg,2005.0
+195,Chrysler,Crossfire ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1063.jpg,35670.0,FR,215.0,1361.0,310.0,118 to ? W/Kg,2004.0
+196,Chrysler,PT Cruiser ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1062.jpg,16390.0,FF,150.0,1270.0,226.0,88 to ? W/Kg,2000.0
+197,Chrysler,Prowler ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1064.jpg,47430.0,FR,249.0,1287.0,346.0,145 to 316 W/Kg,2002.0
+198,Citroën,2CV Type A ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0098.jpg,21000.0,FF,12.0,495.0,30.0,18 to 101 W/Kg,1954.0
+199,Citroën,C3 1.6 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0099.jpg,18130.0,FF,108.0,1063.0,150.0,76 to ? W/Kg,2002.0
+200,Citroën,C4 Coupe 2.0VTS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0102.jpg,31900.0,FF,177.0,1330.0,206.0,99 to ? W/Kg,2005.0
+201,Citroën,C4 WRC ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0105.jpg,850000.0,4WD,315.0,1230.0,568.0,191 to 327 W/Kg,2008.0
+202,Citroën,C5 V6 Exclusive ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0103.jpg,42830.0,FF,207.0,1540.0,294.0,100 to ? W/Kg,2003.0
+206,Citroën,Xantia 3.0i V6 Exclusive ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0101.jpg,30370.0,FF,194.0,1496.0,267.0,97 to ? W/Kg,2000.0
+207,Citroën,Xsara Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0104.jpg,150000.0,FF,295.0,960.0,250.0,229 to 334 W/Kg,1999.0
+208,Citroën,Xsara VTR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0100.jpg,21850.0,FF,106.0,1180.0,147.0,67 to ? W/Kg,2003.0
+209,Cizeta,V16T ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0109.jpg,636660.0,MR,560.0,1640.0,735.0,255 to ? W/Kg,1994.0
+211,DMC,DeLorean S2 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1068.jpg,525000.0,RR,197.0,1288.0,262.0,114 to ? W/Kg,2004.0
+212,Daihatsu,Copen Active Top ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0334.jpg,15000.0,FF,63.0,830.0,110.0,57 to ? W/Kg,2002.0
+213,Daihatsu,Copen Detachable Top ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0337.jpg,14980.0,FF,63.0,800.0,110.0,59 to ? W/Kg,2002.0
+214,Daihatsu,Cuore TR-XX Avanzato R (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0339.jpg,11140.0,FF,63.0,700.0,100.0,67 to ? W/Kg,1997.0
+215,Daihatsu,MIRA TR-XX Avanzato R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0338.jpg,11140.0,FF,63.0,700.0,100.0,67 to ? W/Kg,1997.0
+216,Daihatsu,MOVE CX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0332.jpg,10690.0,FF,54.0,740.0,61.0,54 to ? W/Kg,1995.0
+217,Daihatsu,MOVE Custom RS Limited ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0331.jpg,15720.0,4WD,63.0,920.0,103.0,51 to ? W/Kg,2002.0
+218,Daihatsu,MOVE SR-XX 2WD ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0335.jpg,11590.0,FF,63.0,760.0,100.0,62 to ? W/Kg,1997.0
+219,Daihatsu,MOVE SR-XX 4WD ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0333.jpg,12590.0,4WD,63.0,810.0,105.0,58 to ? W/Kg,1997.0
+220,Daihatsu,Midget II D type ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0328.jpg,5740.0,FR,31.0,570.0,50.0,40 to 192 W/Kg,1998.0
+221,Daihatsu,OFC-1 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0336.jpg,30000.0,FF,63.0,820.0,103.0,57 to ? W/Kg,2007.0
+222,Daihatsu,SIRION CX 2WD (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0330.jpg,10380.0,FF,59.0,840.0,94.0,52 to ? W/Kg,1998.0
+223,Daihatsu,SIRION CX 4WD (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0327.jpg,11830.0,4WD,59.0,890.0,94.0,49 to ? W/Kg,1998.0
+224,Daihatsu,SIRION X4 (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0341.jpg,13900.0,4WD,118.0,840.0,127.0,105 to 350 W/Kg,2000.0
+225,Daihatsu,STORIA CX 2WD ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0329.jpg,10380.0,FF,59.0,840.0,94.0,52 to ? W/Kg,1998.0
+226,Daihatsu,STORIA CX 4WD ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0326.jpg,11830.0,4WD,59.0,890.0,94.0,49 to ? W/Kg,1998.0
+227,Daihatsu,STORIA X4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0340.jpg,13900.0,4WD,118.0,840.0,127.0,105 to 350 W/Kg,2000.0
+230,Dodge,Challenger R/T ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1071.jpg,75000.0,FR,425.0,1724.0,664.0,184 to 424 W/Kg,1970.0
+232,Dodge,Charger 440 R/T ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1069.jpg,75500.0,FR,375.0,1650.0,651.0,169 to 475 W/Kg,1970.0
+233,Dodge,Charger Super Bee 426 Hemi ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1070.jpg,80000.0,FR,425.0,1841.0,650.0,172 to ? W/Kg,1971.0
+235,Eagle,Talon Esi ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1073.jpg,15740.0,FF,138.0,1252.0,181.0,82 to ? W/Kg,1997.0
+238,Ferrari,330 P4 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0124.jpg,20000000.0,MR,435.0,792.0,522.0,409 to 644 W/Kg,1967.0
+239,Ferrari,365 GTB4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0114.jpg,550000.0,FR,336.0,1200.0,431.0,209 to ? W/Kg,1971.0
+240,Ferrari,430 Scuderia ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0121.jpg,302500.0,MR,488.0,1350.0,470.0,270 to 483 W/Kg,2007.0
+241,Ferrari,458 Italia ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0122.jpg,283000.0,MR,546.0,1485.0,540.0,274 to 462 W/Kg,2009.0
+242,Ferrari,512 BB ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0113.jpg,102500.0,MR,343.0,1400.0,451.0,183 to 409 W/Kg,1976.0
+243,Ferrari,599 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0120.jpg,320300.0,FR,595.0,1580.0,608.0,281 to ? W/Kg,2006.0
+245,Ferrari,Dino 246 GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0110.jpg,90000.0,MR,185.0,1080.0,225.0,128 to 263 W/Kg,1971.0
+246,Ferrari,Enzo Ferrari ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0123.jpg,1000000.0,MR,639.0,1255.0,657.0,380 to 675 W/Kg,2002.0
+247,Ferrari,F40 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0117.jpg,450000.0,MR,457.0,1352.0,576.0,252 to 504 W/Kg,1992.0
+248,Ferrari,F430 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0118.jpg,243200.0,MR,480.0,1450.0,465.0,247 to ? W/Kg,2006.0
+249,Ferrari,FXX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0125.jpg,2000000.0,MR,765.0,1155.0,686.0,494 to 798 W/Kg,2007.0
+250,Ferrari,GTO ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0115.jpg,1250000.0,MR,382.0,1160.0,500.0,246 to ? W/Kg,1984.0
+252,Fiat,500 1.2 8V Lounge SS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0131.jpg,23300.0,FF,68.0,1010.0,102.0,50 to 231 W/Kg,2008.0
+253,Fiat,500 F ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0128.jpg,20770.0,RR,18.0,520.0,35.0,25 to ? W/Kg,1965.0
+254,Fiat,500 F ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0129.jpg,20770.0,RR,18.0,520.0,30.0,25 to ? W/Kg,1968.0
+255,Fiat,500 L ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0127.jpg,18580.0,RR,18.0,530.0,30.0,25 to ? W/Kg,1969.0
+256,Fiat,500 R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0126.jpg,15700.0,RR,18.0,595.0,39.0,22 to ? W/Kg,1972.0
+257,Fiat,Barchetta Giovane Due ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0133.jpg,24060.0,FF,128.0,1090.0,164.0,88 to ? W/Kg,2000.0
+258,Fiat,Coupe Turbo Plus ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0134.jpg,48110.0,FF,220.0,1310.0,310.0,125 to ? W/Kg,2000.0
+259,Fiat,Panda Super i.e. ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0130.jpg,14600.0,FF,44.0,730.0,74.0,45 to 252 W/Kg,1990.0
+260,Fiat,Punto HGT Abarth ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0132.jpg,30030.0,FF,129.0,1100.0,164.0,87 to ? W/Kg,2000.0
+261,Fisker,Karma EcoSport ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1074.jpg,138000.0,RR,386.0,2404.0,1300.0,120 to 166 W/Kg,2012.0
+269,Ford,Escort Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1086.jpg,200000.0,4WD,300.0,1230.0,490.0,182 to ? W/Kg,1998.0
+271,Ford,Focus RS WRC 07 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1089.jpg,850000.0,4WD,301.0,1230.0,550.0,182 to ? W/Kg,2008.0
+272,Ford,Focus Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1088.jpg,250000.0,4WD,300.0,1230.0,546.0,182 to ? W/Kg,1999.0
+273,Ford,Focus ST ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1078.jpg,32000.0,FF,222.0,1430.0,319.0,115 to ? W/Kg,2006.0
+274,Ford,Focus ST ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1079.jpg,24500.0,FF,252.0,1462.0,336.0,129 to ? W/Kg,2013.0
+276,Ford,Focus ST170 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1076.jpg,32750.0,FF,171.0,1240.0,195.0,102 to ? W/Kg,2003.0
+277,Ford,GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1097.jpg,149880.0,MR,550.0,1451.0,677.0,283 to 590 W/Kg,2005.0
+278,Ford,GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1096.jpg,149880.0,MR,533.0,1451.0,677.0,274 to 590 W/Kg,2006.0
+282,Ford,GT40 Mark I ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1091.jpg,2800000.0,MR,344.0,1080.0,456.0,238 to ? W/Kg,1966.0
+284,Ford,GT40 Race Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1095.jpg,20000000.0,MR,493.0,998.0,588.0,369 to ? W/Kg,1969.0
+285,Ford,Ka ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1075.jpg,12920.0,FF,59.0,965.0,105.0,46 to 219 W/Kg,2001.0
+286,Ford,Mark IV Race Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1098.jpg,20000000.0,MR,489.0,1000.0,637.0,365 to ? W/Kg,1967.0
+287,Ford,Mustang Boss 302 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1090.jpg,45000.0,FR,444.0,1647.0,515.0,201 to 484 W/Kg,2013.0
+288,Ford,Mustang GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1084.jpg,25950.0,FR,296.0,1568.0,433.0,141 to ? W/Kg,2005.0
+290,Ford,Mustang SVT Cobra R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1087.jpg,57300.0,FR,385.0,1628.0,521.0,176 to ? W/Kg,2000.0
+292,Ford,Mustang V8 GT Coupe Premium ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1083.jpg,48500.0,FR,300.0,1630.0,433.0,137 to 448 W/Kg,2007.0
+293,Ford,RS200 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1080.jpg,160000.0,4WD,246.0,1180.0,291.0,156 to 331 W/Kg,1984.0
+295,Ford,SVT F-150 Lightning ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1082.jpg,35050.0,FR,380.0,2132.0,610.0,133 to ? W/Kg,2003.0
+296,Ford,Shelby GT500 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1094.jpg,55000.0,FR,662.0,1733.0,855.0,285 to 546 W/Kg,2013.0
+297,Ford,Taurus SHO ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1077.jpg,27510.0,FF,235.0,1509.0,312.0,116 to ? W/Kg,1998.0
+298,Gillet,Vertigo Race Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0135.jpg,1450000.0,FR,897.0,780.0,764.0,858 to ? W/Kg,2004.0
+317,HKS,CT230R ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0358.jpg,260000.0,4WD,572.0,1068.0,676.0,400 to ? W/Kg,2008.0
+318,HKS,GENKI HYPER SILVIA RS2 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0357.jpg,200000.0,FR,454.0,1130.0,549.0,299 to ? W/Kg,2004.0
+322,Holden,Commodore SS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0360.jpg,40430.0,FR,328.0,1658.0,465.0,148 to ? W/Kg,2004.0
+323,Holden,Monaro CV8 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0359.jpg,47960.0,FR,328.0,1658.0,465.0,148 to ? W/Kg,2004.0
+324,Hommell,Berlinette R/S Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0136.jpg,47360.0,MR,165.0,950.0,196.0,129 to ? W/Kg,1999.0
+325,Honda,1300 Coupe 9 S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0377.jpg,12800.0,FF,108.0,900.0,113.0,90 to ? W/Kg,1970.0
+326,Honda,ACCORD Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0378.jpg,26000.0,FF,118.0,1220.0,166.0,72 to ? W/Kg,1988.0
+327,Honda,ACCORD Coupe EX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0411.jpg,27480.0,FF,240.0,1481.0,287.0,121 to ? W/Kg,2003.0
+328,Honda,ACCORD Euro-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0402.jpg,25330.0,FF,217.0,1330.0,221.0,122 to ? W/Kg,2000.0
+329,Honda,ACCORD Euro-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0395.jpg,25300.0,FF,217.0,1390.0,206.0,117 to ? W/Kg,2002.0
+330,Honda,ARTA NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0455.jpg,750000.0,MR,473.0,1150.0,392.0,307 to ? W/Kg,2000.0
+331,Honda,ARTA NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0462.jpg,950000.0,MR,493.0,1100.0,588.0,335 to ? W/Kg,2006.0
+332,Honda,BALLADE SPORTS CR-X 1.5i ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0383.jpg,12700.0,FF,108.0,815.0,135.0,99 to ? W/Kg,1983.0
+333,Honda,BEAT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0368.jpg,13800.0,MR,63.0,760.0,60.0,62 to ? W/Kg,1991.0
+334,Honda,BEAT Version F ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0367.jpg,13880.0,MR,63.0,760.0,60.0,62 to ? W/Kg,1992.0
+335,Honda,BEAT Version Z ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0369.jpg,14500.0,MR,63.0,760.0,60.0,62 to ? W/Kg,1993.0
+336,Honda,CITY Turbo II ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0388.jpg,12380.0,FF,108.0,735.0,160.0,110 to ? W/Kg,1983.0
+337,Honda,CIVIC 1500 3door 25¡ ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0380.jpg,11890.0,FF,99.0,815.0,129.0,91 to ? W/Kg,1983.0
+338,Honda,CIVIC 1500 3door CX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0376.jpg,9570.0,FF,84.0,780.0,121.0,81 to ? W/Kg,1979.0
+339,Honda,CIVIC SiR-ll (EG) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0386.jpg,16200.0,FF,168.0,1040.0,157.0,120 to ? W/Kg,1991.0
+340,Honda,CIVIC SiR-ll (EG) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0387.jpg,16200.0,FF,168.0,1040.0,157.0,120 to ? W/Kg,1992.0
+341,Honda,CIVIC SiR-ll (EG) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0389.jpg,16380.0,FF,168.0,1040.0,157.0,120 to ? W/Kg,1993.0
+342,Honda,CIVIC SiR-ll (EG) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0391.jpg,16980.0,FF,168.0,1040.0,157.0,120 to ? W/Kg,1995.0
+343,Honda,CIVIC TYPE R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0408.jpg,28350.0,FF,222.0,1270.0,215.0,130 to ? W/Kg,2008.0
+344,Honda,CIVIC TYPE R (EK) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0392.jpg,19980.0,FF,182.0,1050.0,160.0,130 to ? W/Kg,1997.0
+345,Honda,CIVIC TYPE R (EK) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0393.jpg,19980.0,FF,182.0,1050.0,160.0,130 to ? W/Kg,1998.0
+347,Honda,CIVIC TYPE R (EP) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0406.jpg,22000.0,FF,212.0,1190.0,202.0,133 to ? W/Kg,2001.0
+348,Honda,CIVIC TYPE R (EP) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0407.jpg,23310.0,FF,212.0,1190.0,202.0,133 to ? W/Kg,2004.0
+349,Honda,"CIVIC TYPE R (EP, EU) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0400.jpg,22000.0,FF,197.0,1190.0,196.0,124 to ? W/Kg,2001.0
+350,Honda,CR-X SiR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0390.jpg,15470.0,FF,158.0,986.0,152.0,120 to ? W/Kg,1990.0
+351,Honda,CR-X del Sol SiR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0385.jpg,17100.0,FF,168.0,1100.0,157.0,114 to ? W/Kg,1992.0
+353,Honda,CR-Z a ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0382.jpg,24980.0,FF,112.0,1130.0,145.0,74 to ? W/Kg,2010.0
+354,Honda,Castrol MUGEN NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0454.jpg,750000.0,MR,473.0,1150.0,392.0,307 to ? W/Kg,2000.0
+356,Honda,ELEMENT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0375.jpg,25900.0,4WD,158.0,1560.0,218.0,76 to ? W/Kg,2003.0
+357,Honda,EPSON NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0460.jpg,950000.0,MR,493.0,1150.0,588.0,320 to ? W/Kg,2008.0
+358,Honda,FIT RS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0381.jpg,17000.0,FF,117.0,1050.0,145.0,84 to 253 W/Kg,2010.0
+359,Honda,FIT W ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0371.jpg,12600.0,FF,85.0,990.0,119.0,64 to ? W/Kg,2001.0
+363,Honda,HSV-010 GT Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0468.jpg,980000.0,FR,493.0,1100.0,392.0,335 to ? W/Kg,2012.0
+364,Honda,INSIGHT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0374.jpg,21000.0,FF,69.0,820.0,92.0,62 to ? W/Kg,1999.0
+365,Honda,INSIGHT LS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0373.jpg,22100.0,FF,87.0,1200.0,121.0,54 to ? W/Kg,2009.0
+366,Honda,INTEGRA TYPE R (DC2) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0403.jpg,22280.0,FF,197.0,1060.0,181.0,139 to ? W/Kg,1995.0
+367,Honda,INTEGRA TYPE R (DC2) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0404.jpg,23580.0,FF,197.0,1080.0,186.0,136 to ? W/Kg,1998.0
+368,Honda,INTEGRA TYPE R (DC2) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0405.jpg,25160.0,FF,197.0,1080.0,186.0,136 to ? W/Kg,1999.0
+369,Honda,INTEGRA TYPE R (DC5) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0410.jpg,25900.0,FF,217.0,1170.0,206.0,138 to ? W/Kg,2003.0
+370,Honda,INTEGRA TYPE R (DC5) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0409.jpg,27300.0,FF,217.0,1180.0,206.0,137 to ? W/Kg,2004.0
+373,Honda,JAZZ 1.4 DSi SE Sport ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0372.jpg,12600.0,FF,85.0,990.0,119.0,64 to ? W/Kg,2001.0
+374,Honda,KEIHIN HSV-010 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0466.jpg,980000.0,FR,493.0,1100.0,392.0,335 to ? W/Kg,2012.0
+375,Honda,LIFE STEP VAN ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0361.jpg,8800.0,FF,30.0,605.0,28.0,36 to ? W/Kg,1972.0
+376,Honda,LOCTITE MUGEN NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0458.jpg,750000.0,MR,473.0,1150.0,392.0,307 to ? W/Kg,2001.0
+377,Honda,MUGEN MOTUL CIVIC Si ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0429.jpg,45000.0,FF,222.0,890.0,196.0,185 to ? W/Kg,1987.0
+378,Honda,Mobil 1 NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0457.jpg,750000.0,MR,473.0,1150.0,392.0,307 to ? W/Kg,2001.0
+379,Honda,N360 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0365.jpg,36000.0,FF,31.0,475.0,29.0,48 to ? W/Kg,1967.0
+380,Honda,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0438.jpg,92070.0,MR,276.0,1340.0,304.0,154 to ? W/Kg,2001.0
+381,Honda,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0430.jpg,80030.0,MR,276.0,1350.0,294.0,153 to ? W/Kg,1990.0
+382,Honda,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0431.jpg,83070.0,MR,276.0,1350.0,294.0,153 to ? W/Kg,1993.0
+383,Honda,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0432.jpg,84570.0,MR,276.0,1350.0,294.0,153 to ? W/Kg,1995.0
+384,Honda,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0434.jpg,91070.0,MR,276.0,1350.0,304.0,153 to ? W/Kg,1997.0
+385,Honda,NSX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0435.jpg,92070.0,MR,276.0,1350.0,304.0,153 to ? W/Kg,1999.0
+387,Honda,NSX GT500 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0461.jpg,950000.0,MR,493.0,1150.0,588.0,320 to ? W/Kg,2008.0
+389,Honda,NSX Type R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0445.jpg,119570.0,MR,276.0,1270.0,304.0,162 to 347 W/Kg,2002.0
+390,Honda,NSX Type R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0444.jpg,97070.0,MR,276.0,1230.0,294.0,167 to ? W/Kg,1992.0
+391,Honda,NSX Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0441.jpg,103570.0,MR,276.0,1320.0,304.0,156 to ? W/Kg,2001.0
+392,Honda,NSX Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0436.jpg,103570.0,MR,276.0,1320.0,304.0,156 to ? W/Kg,1997.0
+393,Honda,NSX Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0437.jpg,103570.0,MR,276.0,1320.0,304.0,156 to ? W/Kg,1999.0
+394,Honda,NSX Type S Zero ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0439.jpg,98570.0,MR,276.0,1270.0,304.0,162 to ? W/Kg,1997.0
+395,Honda,NSX Type S Zero ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0440.jpg,98570.0,MR,276.0,1270.0,304.0,162 to ? W/Kg,1999.0
+399,Honda,ODYSSEY ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0379.jpg,28650.0,4WD,158.0,1700.0,218.0,69 to ? W/Kg,2003.0
+400,Honda,PRELUDE Si VTEC ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0398.jpg,22050.0,FF,197.0,1280.0,219.0,115 to ? W/Kg,1991.0
+401,Honda,PRELUDE S¡R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0394.jpg,21830.0,FF,197.0,1260.0,219.0,117 to ? W/Kg,1996.0
+402,Honda,PRELUDE S¡R S spec ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0399.jpg,22930.0,FF,217.0,1270.0,221.0,128 to ? W/Kg,1998.0
+403,Honda,PRELUDE Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0401.jpg,26530.0,FF,217.0,1310.0,221.0,124 to ? W/Kg,1996.0
+404,Honda,PRELUDE Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0397.jpg,24930.0,FF,217.0,1310.0,221.0,124 to ? W/Kg,1998.0
+405,Honda,RAYBRIG HSV-010 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0467.jpg,980000.0,FR,493.0,1100.0,392.0,335 to ? W/Kg,2012.0
+406,Honda,RAYBRIG NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0453.jpg,750000.0,MR,473.0,1150.0,392.0,307 to ? W/Kg,2000.0
+407,Honda,RAYBRIG NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0464.jpg,950000.0,MR,493.0,1100.0,588.0,335 to ? W/Kg,2006.0
+408,Honda,S2000 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0416.jpg,34300.0,FR,246.0,1240.0,218.0,148 to ? W/Kg,2001.0
+409,Honda,S2000 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0426.jpg,35000.0,FR,246.0,1250.0,218.0,147 to ? W/Kg,2003.0
+410,Honda,S2000 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0412.jpg,37800.0,FR,229.0,1250.0,221.0,137 to 352 W/Kg,2006.0
+411,Honda,S2000 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0413.jpg,33800.0,FR,246.0,1240.0,218.0,148 to ? W/Kg,1999.0
+412,Honda,S2000 (EU) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0417.jpg,34300.0,FR,246.0,1240.0,218.0,148 to ? W/Kg,2001.0
+413,Honda,S2000 (EU) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0427.jpg,35000.0,FR,246.0,1250.0,218.0,147 to ? W/Kg,2003.0
+414,Honda,S2000 (EU) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0415.jpg,33800.0,FR,246.0,1240.0,218.0,148 to ? W/Kg,1999.0
+415,Honda,S2000 (US) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0418.jpg,34300.0,FR,246.0,1240.0,218.0,148 to ? W/Kg,2001.0
+416,Honda,S2000 (US) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0428.jpg,35000.0,FR,246.0,1250.0,218.0,147 to ? W/Kg,2004.0
+417,Honda,S2000 (US) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0414.jpg,33800.0,FR,246.0,1240.0,218.0,148 to ? W/Kg,1999.0
+419,Honda,S2000 Type V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0419.jpg,35600.0,FR,246.0,1260.0,218.0,146 to ? W/Kg,2000.0
+420,Honda,S2000 Type V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0422.jpg,36100.0,FR,246.0,1260.0,218.0,146 to ? W/Kg,2001.0
+421,Honda,S2000 Type V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0425.jpg,37000.0,FR,246.0,1270.0,218.0,145 to ? W/Kg,2003.0
+422,Honda,S2000 Type V (EU) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0420.jpg,35600.0,FR,246.0,1260.0,218.0,146 to ? W/Kg,2000.0
+423,Honda,S2000 Type V (EU) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0423.jpg,36100.0,FR,246.0,1260.0,218.0,146 to ? W/Kg,2001.0
+424,Honda,S2000 Type V (US) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0421.jpg,35600.0,FR,246.0,1260.0,218.0,146 to ? W/Kg,2000.0
+425,Honda,S2000 Type V (US) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0424.jpg,36100.0,FR,246.0,1260.0,218.0,146 to ? W/Kg,2001.0
+426,Honda,S500 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0363.jpg,62500.0,FR,43.0,675.0,45.0,47 to ? W/Kg,1963.0
+427,Honda,S600 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0366.jpg,60000.0,FR,56.0,715.0,51.0,59 to ? W/Kg,1964.0
+428,Honda,S800 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0370.jpg,58000.0,FR,69.0,720.0,66.0,71 to ? W/Kg,1966.0
+430,Honda,TAKATA DOME NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0459.jpg,750000.0,MR,473.0,1170.0,392.0,302 to ? W/Kg,2003.0
+431,Honda,TAKATA DOME NSX ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0463.jpg,950000.0,MR,493.0,1100.0,588.0,335 to ? W/Kg,2006.0
+432,Honda,TODAY G ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0362.jpg,6700.0,FF,31.0,550.0,43.0,42 to ? W/Kg,1985.0
+433,Honda,Z ACT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0364.jpg,15800.0,FF,31.0,510.0,29.0,45 to ? W/Kg,1970.0
+434,Honda,weider HSV-010 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0465.jpg,980000.0,FR,493.0,1100.0,392.0,335 to ? W/Kg,2011.0
+435,Hudson,Mario Andretti,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1235.jpg,500000.0,FR,146.0,1292.0,348.0,84 to 120 W/Kg,
+436,Hyundai,Accent Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0479.jpg,750000.0,4WD,296.0,1230.0,520.0,180 to ? W/Kg,2001.0
+439,Hyundai,Coupe FX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0473.jpg,33020.0,FF,165.0,1340.0,245.0,92 to ? W/Kg,2001.0
+440,Hyundai,Genesis Coupe 3.8 Track ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0478.jpg,33000.0,FR,344.0,1557.0,396.0,165 to ? W/Kg,2013.0
+442,Hyundai,Tiburón GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0474.jpg,33020.0,FF,173.0,1340.0,245.0,96 to ? W/Kg,2001.0
+443,Hyundai,Tiburón Turbulence ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0471.jpg,14080.0,FF,153.0,1290.0,191.0,88 to ? W/Kg,1999.0
+444,Hyundai,Tuscani ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0475.jpg,33020.0,FF,173.0,1340.0,245.0,96 to ? W/Kg,2001.0
+448,Infiniti,FX45 Concept ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1111.jpg,55000.0,4WD,330.0,1500.0,451.0,164 to ? W/Kg,2002.0
+449,Infiniti,G20 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1107.jpg,22840.0,FF,148.0,1210.0,186.0,91 to ? W/Kg,1990.0
+450,Infiniti,G35 COUPE ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1109.jpg,33900.0,FR,276.0,1530.0,363.0,135 to ? W/Kg,2003.0
+451,Infiniti,G35 Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1110.jpg,40000.0,FR,298.0,1598.0,352.0,139 to ? W/Kg,2006.0
+452,Infiniti,G35 Sedan ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1108.jpg,30720.0,FR,256.0,1513.0,352.0,126 to ? W/Kg,2003.0
+453,Isuzu,117 COUPE ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0480.jpg,38900.0,FR,118.0,1050.0,142.0,84 to ? W/Kg,1968.0
+455,Isuzu,Bellett 1600 GT-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0481.jpg,42000.0,FR,118.0,970.0,142.0,91 to ? W/Kg,1969.0
+456,Isuzu,PIAZZA XE ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0482.jpg,24650.0,FR,133.0,1190.0,167.0,83 to ? W/Kg,1981.0
+457,Jaguar,E-TYPE Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0137.jpg,50930.0,FR,265.0,1219.0,353.0,162 to ? W/Kg,1961.0
+458,Jaguar,S-TYPE R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0140.jpg,92130.0,FR,399.0,1800.0,553.0,166 to ? W/Kg,2002.0
+459,Jaguar,XFR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0142.jpg,120000.0,FR,503.0,1960.0,625.0,191 to ? W/Kg,2010.0
+460,Jaguar,XJ13 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0147.jpg,20000000.0,MR,495.0,998.0,523.0,370 to ? W/Kg,1966.0
+462,Jaguar,XJ220 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0145.jpg,749140.0,MR,542.0,1372.0,643.0,295 to 569 W/Kg,1992.0
+464,Jaguar,XJR-9 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0149.jpg,1980000.0,MR,749.0,894.0,780.0,625 to ? W/Kg,1988.0
+465,Jaguar,XK Coupe Luxury ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0138.jpg,113000.0,FR,300.0,1690.0,420.0,133 to ? W/Kg,2007.0
+466,Jaguar,XKR Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0143.jpg,155000.0,FR,503.0,1810.0,625.0,207 to ? W/Kg,2010.0
+467,Jaguar,XKR Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0139.jpg,128000.0,FR,370.0,1640.0,525.0,168 to ? W/Kg,1999.0
+468,Jaguar,XKR R Performance ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0141.jpg,118450.0,FR,400.0,1735.0,553.0,172 to ? W/Kg,2002.0
+469,Jaguar,XKR-S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0144.jpg,175000.0,FR,542.0,1810.0,679.0,224 to 455 W/Kg,2011.0
+471,Jay leno,Tank Car ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1113.jpg,1900000.0,FR,861.0,3500.0,2033.0,183 to 199 W/Kg,2003.0
+472,KTM,X-BOW R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0151.jpg,100000.0,MR,296.0,790.0,400.0,280 to ? W/Kg,2012.0
+474,KTM,X-BOW Street ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0150.jpg,85000.0,MR,237.0,790.0,310.0,224 to ? W/Kg,2012.0
+475,Lamborghini,Aventador LP 700-4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0162.jpg,400000.0,4WD,669.0,1575.0,690.0,317 to 566 W/Kg,2011.0
+476,Lamborghini,Countach 25th Anniversary ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0153.jpg,182000.0,MR,436.0,1490.0,491.0,218 to 447 W/Kg,1988.0
+477,Lamborghini,Countach LP400 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0152.jpg,216600.0,MR,363.0,1065.0,361.0,254 to ? W/Kg,1974.0
+478,Lamborghini,Diablo GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0158.jpg,300000.0,MR,557.0,1460.0,630.0,285 to ? W/Kg,2000.0
+479,Lamborghini,Diablo GT2 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0156.jpg,300000.0,MR,611.0,1530.0,630.0,298 to 641 W/Kg,1998.0
+480,Lamborghini,Gallardo LP 560-4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0155.jpg,253300.0,4WD,535.0,1410.0,540.0,283 to ? W/Kg,2008.0
+481,Lamborghini,Miura P400 Bertone Prototype CN.0706 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0154.jpg,15000000.0,MR,339.0,980.0,368.0,258 to ? W/Kg,1967.0
+482,Lamborghini,Murciélago LP 640 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0157.jpg,385600.0,4WD,611.0,1665.0,660.0,274 to ? W/Kg,2009.0
+484,Lamborghini,Murciélago LP 670-4 SuperVeloce ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0161.jpg,394910.0,4WD,641.0,1565.0,660.0,305 to 554 W/Kg,2009.0
+485,Lamborghini,NOMAD Diablo GT-1 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0163.jpg,750000.0,MR,574.0,1200.0,686.0,357 to ? W/Kg,2000.0
+486,Lamborghini,Reventon ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0160.jpg,1200000.0,4WD,630.0,1665.0,660.0,282 to ? W/Kg,2008.0
+487,Lancia,DELTA HF Integrale Evoluzione ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0164.jpg,54500.0,4WD,207.0,1350.0,304.0,114 to 301 W/Kg,1991.0
+488,Lancia,DELTA HF Integrale Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0166.jpg,750000.0,4WD,296.0,1120.0,426.0,197 to 350 W/Kg,1992.0
+489,Lancia,DELTA S4 Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0168.jpg,1450000.0,4WD,450.0,890.0,451.0,376 to ? W/Kg,1985.0
+490,Lancia,STRATOS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0165.jpg,375000.0,MR,185.0,980.0,225.0,141 to 352 W/Kg,1973.0
+491,Lancia,STRATOS 15th Anniversary Edition ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1171.jpg,475000.0,MR,221.0,980.0,262.0,168 to ? W/Kg,1973.0
+493,Land Rover,Range Rover Evoque Coupe Dynamic ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0169.jpg,60000.0,4WD,237.0,1640.0,340.0,108 to 318 W/Kg,2013.0
+495,Lexus,BANDAI DIREZZA SC430 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0500.jpg,950000.0,FR,473.0,1100.0,510.0,321 to ? W/Kg,2006.0
+496,Lexus,DENSO DUNLOP SARD SC430 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0502.jpg,950000.0,FR,473.0,1100.0,510.0,321 to ? W/Kg,2008.0
+497,Lexus,ENEOS SC430 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0501.jpg,950000.0,FR,473.0,1100.0,510.0,321 to ? W/Kg,2008.0
+498,Lexus,GS 300 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0491.jpg,44200.0,FR,276.0,1680.0,451.0,123 to ? W/Kg,2000.0
+499,Lexus,GS 300 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0490.jpg,47400.0,FR,276.0,1680.0,431.0,123 to ? W/Kg,1991.0
+500,Lexus,GS 300 Vertex Edition (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0492.jpg,45500.0,FR,276.0,1680.0,451.0,123 to ? W/Kg,2000.0
+501,Lexus,IS 200 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0484.jpg,20700.0,FR,158.0,1310.0,200.0,90 to ? W/Kg,1998.0
+502,Lexus,IS 200 (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0485.jpg,24000.0,FR,207.0,1340.0,216.0,115 to ? W/Kg,1998.0
+503,Lexus,IS 200 GT-1 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0493.jpg,100000.0,FR,276.0,1010.0,245.0,204 to 364 W/Kg,2004.0
+504,Lexus,IS 300 Sport Cross ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0486.jpg,27600.0,FR,217.0,1470.0,294.0,110 to ? W/Kg,2001.0
+505,Lexus,IS F ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0496.jpg,76600.0,FR,417.0,1690.0,505.0,184 to ? W/Kg,2007.0
+512,Lexus,LFA ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0497.jpg,375000.0,FR,535.0,1480.0,479.0,270 to ? W/Kg,2010.0
+513,Lexus,LFA Nürburgring Package ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0498.jpg,445000.0,FR,545.0,1480.0,480.0,275 to 468 W/Kg,2012.0
+514,Lexus,PETRONAS TOM,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0503.jpg,950000.0,FR,473.0,1100.0,510.0,321 to ? W/Kg,
+515,Lexus,SC 300 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0489.jpg,35000.0,FR,276.0,1560.0,377.0,132 to ? W/Kg,1997.0
+516,Lexus,SC 430 (EU) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0487.jpg,60000.0,FR,276.0,1730.0,429.0,119 to ? W/Kg,2001.0
+517,Lexus,SC 430 (US) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0488.jpg,60000.0,FR,276.0,1730.0,429.0,119 to ? W/Kg,2001.0
+518,Lexus,SC430 GT500 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0504.jpg,950000.0,FR,473.0,1100.0,510.0,321 to ? W/Kg,2008.0
+520,Light Car Company,Rocket ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0171.jpg,100000.0,MR,167.0,390.0,118.0,318 to 674 W/Kg,2007.0
+521,Lister,Storm V12 Race Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0172.jpg,1450000.0,FR,594.0,1438.0,786.0,308 to ? W/Kg,1999.0
+522,Lotus,Carlton ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0184.jpg,81490.0,FR,377.0,1655.0,557.0,170 to ? W/Kg,1990.0
+523,Lotus,Elan S1 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0175.jpg,57710.0,FR,104.0,639.0,146.0,121 to ? W/Kg,1962.0
+524,Lotus,Elise ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0179.jpg,41060.0,MR,120.0,714.0,168.0,126 to ? W/Kg,2000.0
+525,Lotus,Elise ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0174.jpg,51000.0,MR,134.0,876.0,160.0,114 to ? W/Kg,2011.0
+526,Lotus,Elise ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0177.jpg,37600.0,MR,118.0,755.0,165.0,117 to ? W/Kg,1996.0
+527,Lotus,Elise 111R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0182.jpg,54400.0,MR,189.0,860.0,181.0,164 to ? W/Kg,2004.0
+529,Lotus,Elise 111S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0180.jpg,51680.0,MR,156.0,806.0,175.0,144 to ? W/Kg,2003.0
+531,Lotus,Elise Sport 190 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0189.jpg,65270.0,MR,190.0,670.0,189.0,212 to ? W/Kg,1998.0
+532,Lotus,Elise Type 72 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0178.jpg,52470.0,MR,120.0,756.0,168.0,119 to ? W/Kg,2001.0
+533,Lotus,Esprit Sport 350 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0190.jpg,126240.0,MR,349.0,1300.0,400.0,200 to ? W/Kg,2000.0
+534,Lotus,Esprit Turbo HC ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0181.jpg,48550.0,MR,215.0,1146.0,298.0,140 to ? W/Kg,1987.0
+535,Lotus,Esprit V8 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0188.jpg,116520.0,MR,350.0,1380.0,400.0,189 to ? W/Kg,2002.0
+536,Lotus,Esprit V8 GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0187.jpg,97430.0,MR,349.0,1325.0,400.0,196 to ? W/Kg,1998.0
+537,Lotus,Esprit V8 SE ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0186.jpg,116870.0,MR,349.0,1380.0,400.0,188 to ? W/Kg,1998.0
+538,Lotus,Europa S.2 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0173.jpg,30000.0,MR,81.0,624.0,108.0,96 to ? W/Kg,1968.0
+540,Lotus,Europa Special ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0176.jpg,38500.0,MR,126.0,730.0,153.0,129 to ? W/Kg,1972.0
+542,Lotus,Motor Sport Elise ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0185.jpg,100000.0,MR,200.0,700.0,196.0,213 to ? W/Kg,1999.0
+543,MG,MGF ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0224.jpg,40810.0,MR,143.0,1070.0,174.0,100 to ? W/Kg,1997.0
+544,MG,TF160 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0225.jpg,38860.0,MR,158.0,1150.0,173.0,103 to ? W/Kg,2003.0
+545,MINI,COOPER ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0228.jpg,22190.0,FF,113.0,1115.0,149.0,76 to ? W/Kg,2002.0
+546,MINI,COOPER S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0229.jpg,26790.0,FF,161.0,1120.0,219.0,107 to ? W/Kg,2002.0
+547,MINI,COOPER S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0231.jpg,28500.0,FF,168.0,1180.0,220.0,106 to ? W/Kg,2005.0
+548,MINI,COOPER S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0232.jpg,29500.0,FF,173.0,1210.0,240.0,107 to ? W/Kg,2007.0
+549,MINI,COOPER S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0233.jpg,30300.0,FF,181.0,1140.0,240.0,118 to 275 W/Kg,2011.0
+550,MINI,COOPER S Countryman (R60) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0230.jpg,34500.0,FF,181.0,1310.0,240.0,103 to ? W/Kg,2011.0
+552,MINI,Cooper 1.3i ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0227.jpg,18320.0,FF,61.0,720.0,94.0,64 to ? W/Kg,1998.0
+553,MINI,ONE ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0226.jpg,19620.0,FF,89.0,1125.0,140.0,59 to ? W/Kg,2002.0
+554,Marcos,Mini Marcos GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0193.jpg,25500.0,FF,76.0,559.0,107.0,102 to ? W/Kg,1970.0
+555,Maserati,GranTurismo S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0194.jpg,166500.0,FR,434.0,1780.0,490.0,182 to 411 W/Kg,2008.0
+556,Mazda,11 OS (L10A) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0512.jpg,74000.0,FR,108.0,940.0,130.0,86 to ? W/Kg,1967.0
+557,Mazda,11 OS (L10B) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0520.jpg,68800.0,FR,126.0,960.0,139.0,98 to ? W/Kg,1968.0
+558,Mazda,2 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0510.jpg,14500.0,FF,111.0,1080.0,140.0,77 to ? W/Kg,2003.0
+559,Mazda,323F ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0548.jpg,19920.0,FF,168.0,1240.0,179.0,101 to ? W/Kg,1993.0
+560,Mazda,787B ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0605.jpg,2100000.0,MR,690.0,830.0,608.0,620 to ? W/Kg,1991.0
+562,Mazda,Atenza Concept ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0556.jpg,40000.0,FF,170.0,1300.0,215.0,98 to ? W/Kg,2001.0
+563,Mazda,Atenza Sport 25Z ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0544.jpg,26200.0,FF,168.0,1470.0,226.0,85 to ? W/Kg,2007.0
+564,Mazda,Atenza Sports 23Z ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0550.jpg,23500.0,FF,175.0,1390.0,215.0,94 to ? W/Kg,2003.0
+566,Mazda,Autozam AZ-1 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0507.jpg,14980.0,MR,63.0,720.0,85.0,65 to ? W/Kg,1992.0
+567,Mazda,Axela 23S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0558.jpg,19500.0,FF,169.0,1260.0,214.0,100 to ? W/Kg,2003.0
+569,Mazda,Carol 360 Deluxe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0506.jpg,38500.0,RR,20.0,560.0,24.0,27 to ? W/Kg,1962.0
+570,Mazda,Cosmo Sport (L10A) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0511.jpg,74000.0,FR,108.0,940.0,130.0,86 to ? W/Kg,1967.0
+571,Mazda,Cosmo Sport (L10B) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0519.jpg,68800.0,FR,126.0,960.0,139.0,98 to ? W/Kg,1968.0
+572,Mazda,DEMIO GL-X ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0508.jpg,14660.0,FF,99.0,960.0,127.0,77 to ? W/Kg,1999.0
+573,Mazda,DEMIO SPORT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0509.jpg,14500.0,FF,111.0,1080.0,140.0,77 to ? W/Kg,2003.0
+574,Mazda,DEMIO SPORT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0513.jpg,16200.0,FF,111.0,1020.0,139.0,81 to ? W/Kg,2010.0
+575,Mazda,Eunos Roadster (NA Special Package) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0524.jpg,17000.0,FR,118.0,940.0,137.0,94 to ? W/Kg,1989.0
+576,Mazda,Eunos Roadster J-Limited (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0514.jpg,19000.0,FR,118.0,950.0,137.0,93 to ? W/Kg,1991.0
+577,Mazda,Eunos Roadster J-Limited II (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0529.jpg,20300.0,FR,128.0,990.0,157.0,97 to ? W/Kg,1993.0
+578,Mazda,Eunos Roadster S-Special Type I (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0526.jpg,19950.0,FR,128.0,990.0,157.0,97 to ? W/Kg,1995.0
+579,Mazda,Eunos Roadster SR-Limited (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0525.jpg,18980.0,FR,128.0,1000.0,157.0,96 to ? W/Kg,1997.0
+580,Mazda,Eunos Roadster V-Special Type II (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0531.jpg,24000.0,FR,128.0,1000.0,157.0,96 to ? W/Kg,1993.0
+581,Mazda,Eunos Roadster VR-Limited (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0530.jpg,20800.0,FR,128.0,990.0,157.0,97 to ? W/Kg,1995.0
+582,Mazda,Familia Sedan Sport 20 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0543.jpg,18980.0,FF,163.0,1170.0,177.0,103 to ? W/Kg,2002.0
+584,Mazda,KUSABI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0562.jpg,50000.0,FF,143.0,900.0,180.0,119 to ? W/Kg,2003.0
+586,Mazda,Lantis Coupe 2000 Type R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0549.jpg,19920.0,FF,168.0,1200.0,179.0,104 to ? W/Kg,1993.0
+587,Mazda,MX-5 (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0517.jpg,17000.0,FR,118.0,940.0,137.0,94 to ? W/Kg,1989.0
+588,Mazda,"MX-5 1.8 RS (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0541.jpg,22950.0,FR,143.0,1030.0,163.0,104 to ? W/Kg,1998.0
+589,Mazda,"MX-5 1600 NR-A (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0523.jpg,20500.0,FR,123.0,1050.0,142.0,88 to ? W/Kg,2004.0
+590,Mazda,"MX-5 1800 RS (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0554.jpg,23280.0,FR,158.0,1070.0,170.0,110 to ? W/Kg,2000.0
+591,Mazda,"MX-5 1800 RS (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0553.jpg,23500.0,FR,158.0,1080.0,170.0,109 to ? W/Kg,2004.0
+592,Mazda,"MX-5 J-Limited (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0516.jpg,19000.0,FR,118.0,940.0,137.0,94 to ? W/Kg,1991.0
+593,Mazda,"MX-5 J-Limited II (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0535.jpg,20300.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1993.0
+594,Mazda,MX-5 Miata (NA) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0518.jpg,17000.0,FR,118.0,940.0,137.0,94 to ? W/Kg,1989.0
+595,Mazda,"MX-5 Miata 1.8 RS (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0542.jpg,22950.0,FR,143.0,1030.0,163.0,104 to ? W/Kg,1998.0
+596,Mazda,"MX-5 Miata 1600 NR-A (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0522.jpg,20500.0,FR,123.0,1050.0,142.0,88 to ? W/Kg,2004.0
+597,Mazda,"MX-5 Miata 1800 RS (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0555.jpg,23280.0,FR,158.0,1070.0,170.0,110 to ? W/Kg,2000.0
+598,Mazda,"MX-5 Miata 1800 RS (NB, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0552.jpg,23500.0,FR,158.0,1080.0,170.0,109 to ? W/Kg,2004.0
+599,Mazda,"MX-5 Miata J-Limited (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0515.jpg,19000.0,FR,118.0,940.0,137.0,94 to ? W/Kg,1991.0
+600,Mazda,"MX-5 Miata J-Limited II (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0534.jpg,20300.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1993.0
+601,Mazda,"MX-5 Miata S-Special Type I (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0527.jpg,19950.0,FR,128.0,1000.0,157.0,96 to ? W/Kg,1995.0
+602,Mazda,"MX-5 Miata SR-Limited (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0532.jpg,18980.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1997.0
+603,Mazda,"MX-5 Miata V-Special Type II (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0538.jpg,24000.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1993.0
+604,Mazda,"MX-5 Miata VR-Limited (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0536.jpg,20800.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1995.0
+605,Mazda,"MX-5 S-Special Type I (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0528.jpg,19950.0,FR,128.0,1000.0,157.0,96 to ? W/Kg,1995.0
+606,Mazda,"MX-5 SR-Limited (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0533.jpg,18980.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1997.0
+607,Mazda,"MX-5 V-Special Type II (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0539.jpg,24000.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1993.0
+608,Mazda,"MX-5 VR-Limited (NA, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0537.jpg,20800.0,FR,128.0,980.0,157.0,98 to ? W/Kg,1995.0
+610,Mazda,Mazda6 5-door ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0551.jpg,23500.0,FF,175.0,1390.0,215.0,94 to ? W/Kg,2003.0
+613,Mazda,Mazdaspeed Atenza ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0585.jpg,60000.0,4WD,296.0,1070.0,379.0,207 to ? W/Kg,2005.0
+614,Mazda,Protégé ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0545.jpg,18980.0,FF,163.0,1170.0,177.0,103 to ? W/Kg,2002.0
+615,Mazda,"RX-7 GT-LIMITED (FC, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0560.jpg,16900.0,FR,182.0,1280.0,245.0,106 to ? W/Kg,1985.0
+616,Mazda,RX-7 GT-X (FC) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0564.jpg,24860.0,FR,202.0,1250.0,270.0,121 to ? W/Kg,1990.0
+617,Mazda,"RX-7 GT-X (FC, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0565.jpg,24860.0,FR,202.0,1250.0,270.0,121 to ? W/Kg,1990.0
+619,Mazda,RX-7 Spirit R Type A (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0596.jpg,40000.0,FR,276.0,1270.0,314.0,162 to ? W/Kg,2002.0
+621,Mazda,"RX-7 Type R (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0580.jpg,38500.0,FR,251.0,1260.0,294.0,149 to ? W/Kg,1991.0
+622,Mazda,"RX-7 Type R (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0574.jpg,39100.0,FR,251.0,1260.0,294.0,149 to ? W/Kg,1993.0
+623,Mazda,RX-7 Type R Bathurst R (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0593.jpg,33980.0,FR,276.0,1260.0,314.0,163 to ? W/Kg,2001.0
+624,Mazda,"RX-7 Type R-S (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0572.jpg,38900.0,FR,251.0,1260.0,294.0,149 to ? W/Kg,1995.0
+625,Mazda,RX-7 Type RS (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0591.jpg,38480.0,FR,276.0,1280.0,314.0,161 to ? W/Kg,2000.0
+626,Mazda,RX-7 Type RS (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0592.jpg,37780.0,FR,276.0,1280.0,314.0,161 to ? W/Kg,1998.0
+627,Mazda,"RX-7 Type RS (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0584.jpg,36650.0,FR,261.0,1280.0,294.0,152 to ? W/Kg,1996.0
+628,Mazda,RX-7 Type RS-R (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0586.jpg,36250.0,FR,261.0,1280.0,294.0,152 to ? W/Kg,1997.0
+629,Mazda,RX-7 Type RZ (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0594.jpg,39980.0,FR,276.0,1270.0,314.0,162 to ? W/Kg,2000.0
+630,Mazda,"RX-7 Type RZ (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0582.jpg,40150.0,FR,251.0,1230.0,294.0,153 to ? W/Kg,1992.0
+631,Mazda,"RX-7 Type RZ (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0578.jpg,43500.0,FR,251.0,1240.0,294.0,152 to ? W/Kg,1993.0
+632,Mazda,"RX-7 Type RZ (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0576.jpg,39600.0,FR,251.0,1250.0,294.0,150 to ? W/Kg,1995.0
+633,Mazda,"RX-7 Type RZ (FD, J) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0588.jpg,39750.0,FR,261.0,1250.0,294.0,156 to ? W/Kg,1996.0
+634,Mazda,RX-8 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0563.jpg,24000.0,FR,207.0,1310.0,221.0,118 to ? W/Kg,2003.0
+635,Mazda,RX-8 Concept (Type-1) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0590.jpg,65000.0,FR,246.0,1200.0,207.0,153 to ? W/Kg,2001.0
+638,Mazda,RX-8 Type E ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0566.jpg,27500.0,FR,207.0,1330.0,221.0,116 to ? W/Kg,2003.0
+639,Mazda,RX-8 Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0569.jpg,27500.0,FR,246.0,1310.0,216.0,140 to ? W/Kg,2003.0
+640,Mazda,RX-8 Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0570.jpg,28980.0,FR,246.0,1310.0,216.0,140 to ? W/Kg,2007.0
+642,Mazda,Roadster 1.8 RS (NB) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0540.jpg,22950.0,FR,143.0,1030.0,163.0,104 to ? W/Kg,1998.0
+643,Mazda,Roadster 1600 NR-A (NB) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0521.jpg,20500.0,FR,123.0,1050.0,142.0,88 to ? W/Kg,2004.0
+644,Mazda,Roadster 1800 RS (NB) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0546.jpg,23280.0,FR,158.0,1070.0,170.0,110 to ? W/Kg,2000.0
+645,Mazda,Roadster 1800 RS (NB) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0547.jpg,23500.0,FR,158.0,1080.0,170.0,109 to ? W/Kg,2004.0
+646,Mazda,Roadster RS (NC) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0561.jpg,25000.0,FR,168.0,1100.0,189.0,114 to 338 W/Kg,2007.0
+648,Mazda,SAVANNA RX-7 GT-Limited (FC) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0559.jpg,16900.0,FR,182.0,1280.0,245.0,106 to ? W/Kg,1985.0
+649,Mazda,SAVANNA RX-7 INFINI III (FC) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0567.jpg,27040.0,FR,212.0,1230.0,274.0,128 to ? W/Kg,1990.0
+650,Mazda,éfini RX-7 Type R (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0579.jpg,38500.0,FR,251.0,1260.0,294.0,149 to ? W/Kg,1991.0
+651,Mazda,éfini RX-7 Type R (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0573.jpg,39100.0,FR,251.0,1260.0,294.0,149 to ? W/Kg,1993.0
+652,Mazda,éfini RX-7 Type R-S (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0571.jpg,38900.0,FR,251.0,1260.0,294.0,149 to ? W/Kg,1995.0
+653,Mazda,éfini RX-7 Type RS (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0583.jpg,36650.0,FR,261.0,1280.0,294.0,152 to ? W/Kg,1996.0
+654,Mazda,éfini RX-7 Type RZ (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0581.jpg,40150.0,FR,251.0,1230.0,294.0,153 to ? W/Kg,1992.0
+655,Mazda,éfini RX-7 Type RZ (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0577.jpg,43500.0,FR,251.0,1240.0,294.0,152 to ? W/Kg,1993.0
+656,Mazda,éfini RX-7 Type RZ (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0575.jpg,39600.0,FR,251.0,1250.0,294.0,150 to ? W/Kg,1995.0
+657,Mazda,éfini RX-7 Type RZ (FD) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0587.jpg,39750.0,FR,261.0,1250.0,294.0,156 to ? W/Kg,1996.0
+658,McLaren,F1 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0196.jpg,1000000.0,MR,627.0,1140.0,651.0,411 to 696 W/Kg,1994.0
+659,McLaren,F1 GTR - BMW (Kokusai Kaihatsu UK Racing) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0197.jpg,1750000.0,MR,600.0,1050.0,651.0,427 to ? W/Kg,1995.0
+660,McLaren,F1 GTR Race Car Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0198.jpg,1750000.0,MR,600.0,1050.0,651.0,427 to ? W/Kg,1995.0
+662,McLaren,MP4-12C ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0195.jpg,225000.0,MR,592.0,1350.0,600.0,327 to 657 W/Kg,2010.0
+663,Mercedes-Benz,190 E 2.5 -16 Evolution II ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0204.jpg,67910.0,FR,232.0,1340.0,245.0,129 to ? W/Kg,1991.0
+665,Mercedes-Benz,300 SL Coupé ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0202.jpg,237690.0,FR,212.0,1295.0,274.0,122 to ? W/Kg,1954.0
+667,Mercedes-Benz,A 160 Avantgarde ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0200.jpg,33020.0,FF,101.0,1115.0,150.0,67 to ? W/Kg,1998.0
+671,Mercedes-Benz,C 63 AMG ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0211.jpg,104400.0,FR,451.0,1730.0,600.0,194 to 565 W/Kg,2008.0
+672,Mercedes-Benz,CL 600 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0207.jpg,177850.0,FR,362.0,1955.0,530.0,138 to ? W/Kg,2000.0
+673,Mercedes-Benz,CLK 55 AMG ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0209.jpg,147770.0,FR,347.0,1620.0,510.0,160 to ? W/Kg,2000.0
+675,Mercedes-Benz,E 55 AMG ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0210.jpg,105330.0,FR,469.0,1910.0,700.0,183 to ? W/Kg,2002.0
+676,Mercedes-Benz,SL 500 (R129) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0205.jpg,168090.0,FR,302.0,1800.0,460.0,125 to ? W/Kg,1998.0
+677,Mercedes-Benz,SL 500 (R230) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0206.jpg,127620.0,FR,302.0,1840.0,460.0,122 to ? W/Kg,2002.0
+678,Mercedes-Benz,SL 55 AMG (R230) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0212.jpg,125000.0,FR,493.0,1970.0,700.0,187 to 445 W/Kg,2002.0
+679,Mercedes-Benz,SL 600 (R129) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0208.jpg,210270.0,FR,388.0,2029.0,570.0,143 to ? W/Kg,1998.0
+680,Mercedes-Benz,SL 600 (R230) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0213.jpg,177700.0,FR,493.0,2025.0,800.0,182 to ? W/Kg,2004.0
+681,Mercedes-Benz,SL 65 AMG (R230) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0215.jpg,190700.0,FR,603.0,2028.0,1000.0,222 to ? W/Kg,2004.0
+682,Mercedes-Benz,SLK 230 Kompressor ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0201.jpg,42130.0,FR,193.0,1325.0,280.0,109 to ? W/Kg,1998.0
+683,Mercedes-Benz,SLR McLaren ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0219.jpg,610000.0,FR,616.0,1768.0,780.0,260 to ? W/Kg,2003.0
+684,Mercedes-Benz,SLR McLaren ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0218.jpg,598500.0,FR,617.0,1768.0,780.0,260 to ? W/Kg,2009.0
+685,Mercedes-Benz,SLS AMG ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0216.jpg,197620.0,FR,553.0,1620.0,650.0,255 to ? W/Kg,2010.0
+686,Mercedes-Benz,SLS AMG GT3 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0221.jpg,435000.0,FR,553.0,1350.0,600.0,306 to ? W/Kg,2011.0
+689,Mercedes-Benz,Sauber Mercedes C9 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0223.jpg,2150000.0,MR,710.0,893.0,784.0,594 to 934 W/Kg,1989.0
+690,Mercury,Cougar XR-7 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1115.jpg,47280.0,FR,310.0,1418.0,581.0,163 to ? W/Kg,1967.0
+691,Mine's,BNR34 SKYLINE GT-R N1 base ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0609.jpg,200000.0,4WD,592.0,1340.0,588.0,329 to ? W/Kg,2006.0
+692,Mine's,BNR34 SKYLINE GT-R V*spec N1 base ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0608.jpg,200000.0,4WD,592.0,1340.0,588.0,329 to ? W/Kg,2000.0
+693,Mine's,LANCER EVOLUTION VI ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0607.jpg,150000.0,4WD,394.0,1210.0,397.0,243 to ? W/Kg,2000.0
+694,Mitsubishi,3000GT MR (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0652.jpg,39800.0,4WD,276.0,1680.0,426.0,123 to ? W/Kg,1995.0
+695,Mitsubishi,3000GT MR (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0659.jpg,39790.0,4WD,276.0,1670.0,426.0,123 to ? W/Kg,1998.0
+696,Mitsubishi,3000GT SL (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0622.jpg,29910.0,4WD,222.0,1610.0,274.0,102 to ? W/Kg,1995.0
+697,Mitsubishi,3000GT SL (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0627.jpg,29980.0,4WD,222.0,1610.0,274.0,102 to ? W/Kg,1996.0
+698,Mitsubishi,3000GT SL (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0632.jpg,29980.0,4WD,222.0,1600.0,274.0,103 to ? W/Kg,1998.0
+699,Mitsubishi,3000GT SR (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0623.jpg,29910.0,4WD,222.0,1610.0,274.0,102 to ? W/Kg,1995.0
+700,Mitsubishi,3000GT SR (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0628.jpg,29980.0,4WD,222.0,1610.0,274.0,102 to ? W/Kg,1996.0
+701,Mitsubishi,3000GT SR (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0633.jpg,29980.0,4WD,222.0,1600.0,274.0,103 to ? W/Kg,1998.0
+702,Mitsubishi,3000GT VR-4 (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0657.jpg,43230.0,4WD,276.0,1680.0,426.0,123 to ? W/Kg,1998.0
+703,Mitsubishi,3000GT VR-4 Turbo (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0651.jpg,43150.0,4WD,276.0,1710.0,426.0,120 to ? W/Kg,1995.0
+704,Mitsubishi,3000GT VR-4 Turbo (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0655.jpg,43230.0,4WD,276.0,1710.0,426.0,120 to ? W/Kg,1996.0
+705,Mitsubishi,3000GT VR-4 Turbo (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0658.jpg,43230.0,4WD,276.0,1680.0,426.0,123 to ? W/Kg,1998.0
+706,Mitsubishi,AIRTREK Turbo-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0637.jpg,22950.0,4WD,237.0,1520.0,343.0,116 to ? W/Kg,2002.0
+707,Mitsubishi,COLT 1.5 Sport X Version ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0612.jpg,14950.0,FF,97.0,1030.0,132.0,70 to ? W/Kg,2002.0
+711,Mitsubishi,ECLIPSE GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0644.jpg,25000.0,FF,263.0,1575.0,353.0,124 to ? W/Kg,2006.0
+712,Mitsubishi,ECLIPSE GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0640.jpg,21420.0,FF,227.0,1330.0,289.0,127 to ? W/Kg,1995.0
+713,Mitsubishi,ECLIPSE Spyder GTS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0624.jpg,26780.0,FF,210.0,1510.0,277.0,104 to ? W/Kg,2003.0
+714,Mitsubishi,FTO GP Version R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0634.jpg,21600.0,FF,197.0,1150.0,200.0,128 to ? W/Kg,1997.0
+715,Mitsubishi,FTO GP Version R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0635.jpg,21600.0,FF,197.0,1150.0,200.0,128 to ? W/Kg,1999.0
+716,Mitsubishi,FTO GPX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0625.jpg,22870.0,FF,197.0,1170.0,200.0,126 to ? W/Kg,1994.0
+717,Mitsubishi,FTO GPX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0629.jpg,22870.0,FF,197.0,1170.0,200.0,126 to ? W/Kg,1997.0
+718,Mitsubishi,FTO GPX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0630.jpg,23330.0,FF,197.0,1170.0,200.0,126 to ? W/Kg,1999.0
+719,Mitsubishi,FTO GR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0618.jpg,18870.0,FF,168.0,1150.0,186.0,109 to ? W/Kg,1994.0
+720,Mitsubishi,FTO GR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0620.jpg,18870.0,FF,177.0,1150.0,191.0,115 to ? W/Kg,1997.0
+722,Mitsubishi,GALANT 2.0 DOHC Turbo VR-4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0638.jpg,27810.0,4WD,202.0,1340.0,294.0,113 to ? W/Kg,1989.0
+723,Mitsubishi,GALANT GTO MR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0615.jpg,21800.0,FR,123.0,980.0,142.0,94 to ? W/Kg,1970.0
+724,Mitsubishi,GTO SR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0621.jpg,29910.0,4WD,222.0,1610.0,274.0,102 to ? W/Kg,1995.0
+725,Mitsubishi,GTO SR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0626.jpg,29980.0,4WD,222.0,1610.0,274.0,102 to ? W/Kg,1996.0
+726,Mitsubishi,GTO SR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0631.jpg,29980.0,4WD,222.0,1600.0,274.0,103 to ? W/Kg,1998.0
+727,Mitsubishi,GTO Twin Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0650.jpg,43150.0,4WD,276.0,1710.0,426.0,120 to ? W/Kg,1995.0
+728,Mitsubishi,GTO Twin Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0654.jpg,43230.0,4WD,276.0,1710.0,426.0,120 to ? W/Kg,1996.0
+729,Mitsubishi,GTO Twin Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0656.jpg,43230.0,4WD,276.0,1680.0,426.0,123 to ? W/Kg,1998.0
+730,Mitsubishi,GTO Twin Turbo MR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0649.jpg,39800.0,4WD,276.0,1680.0,426.0,123 to ? W/Kg,1995.0
+731,Mitsubishi,GTO Twin Turbo MR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0660.jpg,39790.0,4WD,276.0,1670.0,426.0,123 to ? W/Kg,1998.0
+732,Mitsubishi,HSR-II ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0678.jpg,300000.0,4WD,334.0,1200.0,441.0,208 to ? W/Kg,1989.0
+733,Mitsubishi,LEGNUM VR-4 Type V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0642.jpg,28500.0,4WD,276.0,1550.0,363.0,133 to ? W/Kg,1998.0
+735,Mitsubishi,Lancer 1600 GSR,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0616.jpg,14200.0,FR,108.0,825.0,139.0,98 to ? W/Kg,1974.0
+736,Mitsubishi,Lancer EX 1800GSR IC Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0617.jpg,26790.0,FR,158.0,1085.0,216.0,109 to ? W/Kg,1983.0
+737,Mitsubishi,Lancer Evolution GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0643.jpg,27380.0,4WD,246.0,1240.0,309.0,148 to ? W/Kg,1992.0
+738,Mitsubishi,Lancer Evolution II GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0645.jpg,28980.0,4WD,256.0,1250.0,309.0,153 to ? W/Kg,1994.0
+739,Mitsubishi,Lancer Evolution III GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0646.jpg,29680.0,4WD,266.0,1260.0,309.0,158 to ? W/Kg,1995.0
+740,Mitsubishi,Lancer Evolution IV GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0648.jpg,30000.0,4WD,276.0,1350.0,353.0,153 to ? W/Kg,1996.0
+741,Mitsubishi,Lancer Evolution IV Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0669.jpg,300000.0,4WD,280.0,1230.0,490.0,170 to ? W/Kg,1997.0
+742,Mitsubishi,Lancer Evolution IX GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0653.jpg,35700.0,4WD,276.0,1410.0,400.0,146 to ? W/Kg,2005.0
+744,Mitsubishi,Lancer Evolution Super Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0679.jpg,300000.0,4WD,296.0,1230.0,540.0,180 to ? W/Kg,2003.0
+745,Mitsubishi,Lancer Evolution V GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0662.jpg,32480.0,4WD,276.0,1360.0,372.0,151 to ? W/Kg,1998.0
+746,Mitsubishi,Lancer Evolution VI GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0664.jpg,32480.0,4WD,276.0,1360.0,372.0,151 to ? W/Kg,1999.0
+747,Mitsubishi,Lancer Evolution VI GSR T.M. EDITION ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0666.jpg,32780.0,4WD,276.0,1360.0,372.0,151 to ? W/Kg,2000.0
+749,Mitsubishi,Lancer Evolution VI RS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0668.jpg,25980.0,4WD,276.0,1260.0,372.0,163 to ? W/Kg,1999.0
+750,Mitsubishi,Lancer Evolution VI RS T.M. EDITION ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0671.jpg,25980.0,4WD,276.0,1260.0,372.0,163 to ? W/Kg,2000.0
+751,Mitsubishi,Lancer Evolution VI Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0675.jpg,300000.0,4WD,298.0,1230.0,510.0,180 to ? W/Kg,1999.0
+752,Mitsubishi,Lancer Evolution VII GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0665.jpg,29980.0,4WD,276.0,1400.0,382.0,147 to ? W/Kg,2001.0
+753,Mitsubishi,Lancer Evolution VII GT-A ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0661.jpg,33000.0,4WD,268.0,1480.0,343.0,135 to ? W/Kg,2002.0
+754,Mitsubishi,Lancer Evolution VII RS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0670.jpg,25180.0,4WD,276.0,1320.0,382.0,156 to ? W/Kg,2001.0
+755,Mitsubishi,Lancer Evolution VIII GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0672.jpg,32980.0,4WD,276.0,1410.0,392.0,146 to ? W/Kg,2003.0
+756,Mitsubishi,Lancer Evolution VIII MR GSR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0673.jpg,33980.0,4WD,276.0,1400.0,400.0,147 to ? W/Kg,2004.0
+757,Mitsubishi,Lancer Evolution VIII RS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0674.jpg,31600.0,4WD,276.0,1320.0,392.0,156 to ? W/Kg,2003.0
+758,Mitsubishi,Lancer Evolution X GSR Premium Package ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0663.jpg,42400.0,4WD,276.0,1540.0,421.0,134 to ? W/Kg,2007.0
+760,Mitsubishi,MINICA DANGAN ZZ ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0614.jpg,10180.0,FF,63.0,640.0,74.0,73 to ? W/Kg,1989.0
+761,Mitsubishi,MIRAGE 1400GLX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0613.jpg,9220.0,FF,78.0,795.0,119.0,73 to ? W/Kg,1978.0
+762,Mitsubishi,MIRAGE CYBORG ZR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0619.jpg,19080.0,FF,173.0,1060.0,167.0,122 to ? W/Kg,1997.0
+763,Mitsubishi,PAJERO Evolution Rally Raid Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0639.jpg,450000.0,4WD,260.0,1825.0,353.0,106 to ? W/Kg,2003.0
+765,Mitsubishi,STARION 4WD Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0676.jpg,1400000.0,4WD,343.0,1250.0,343.0,205 to 354 W/Kg,1984.0
+766,Mitsubishi,i Concept ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0611.jpg,35000.0,MR,64.0,790.0,92.0,61 to ? W/Kg,2003.0
+767,Mitsubishi,i-MiEV ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0610.jpg,46000.0,MR,63.0,1100.0,180.0,43 to 51 W/Kg,2009.0
+768,Monster Sport,SX4 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0684.jpg,1600000.0,4WD,897.0,1090.0,887.0,614 to ? W/Kg,2011.0
+771,NISMO,270R ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0686.jpg,45000.0,FR,266.0,1240.0,338.0,160 to ? W/Kg,1994.0
+772,NISMO,400R ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0689.jpg,120000.0,4WD,394.0,1550.0,468.0,190 to ? W/Kg,1996.0
+775,NISMO,GT-R LM Road Going Version ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0688.jpg,500000.0,FR,301.0,1580.0,372.0,142 to 469 W/Kg,1995.0
+776,NISMO,Skyline GT-R R-tune (R34) ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0691.jpg,125000.0,4WD,444.0,1560.0,475.0,212 to ? W/Kg,1999.0
+777,NISMO,Skyline GT-R S-tune (R32) ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0690.jpg,90000.0,4WD,394.0,1500.0,431.0,196 to ? W/Kg,2000.0
+778,Nissan,180SX Type X ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0734.jpg,24980.0,FR,202.0,1220.0,274.0,124 to ? W/Kg,1996.0
+779,Nissan,200SX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0735.jpg,24980.0,FR,202.0,1220.0,274.0,124 to ? W/Kg,1996.0
+780,Nissan,200SX (S14) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0741.jpg,25950.0,FR,217.0,1250.0,274.0,130 to ? W/Kg,1996.0
+781,Nissan,240RS Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0758.jpg,750000.0,FR,237.0,970.0,235.0,182 to ? W/Kg,1985.0
+782,Nissan,240SX ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0736.jpg,24980.0,FR,202.0,1220.0,274.0,124 to ? W/Kg,1996.0
+783,Nissan,240SX (S14) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0742.jpg,25950.0,FR,217.0,1250.0,274.0,130 to ? W/Kg,1996.0
+784,Nissan,240ZG (HS30) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0721.jpg,55000.0,FR,148.0,1010.0,206.0,109 to ? W/Kg,1971.0
+785,Nissan,300ZX 2by2 (Z32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0751.jpg,43980.0,FR,276.0,1580.0,388.0,130 to ? W/Kg,1998.0
+786,Nissan,300ZX 2seater (Z32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0756.jpg,39500.0,FR,276.0,1510.0,388.0,136 to ? W/Kg,1989.0
+787,Nissan,300ZX 2seater (Z32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0753.jpg,39900.0,FR,276.0,1520.0,388.0,136 to ? W/Kg,1998.0
+788,Nissan,"350Z (Z33, EU) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0782.jpg,33000.0,FR,283.0,1320.0,371.0,160 to ? W/Kg,2003.0
+789,Nissan,"350Z (Z33, US) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0781.jpg,33000.0,FR,283.0,1320.0,371.0,160 to ? W/Kg,2003.0
+791,Nissan,"350Z Roadster (Z33, EU) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0761.jpg,36000.0,FR,276.0,1550.0,363.0,133 to ? W/Kg,2003.0
+792,Nissan,"350Z Roadster (Z33, US) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0760.jpg,36000.0,FR,276.0,1550.0,363.0,133 to ? W/Kg,2003.0
+793,Nissan,BLUEBIRD 1600 Deluxe (510) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0701.jpg,25700.0,FR,91.0,930.0,129.0,73 to ? W/Kg,1969.0
+794,Nissan,BLUEBIRD Hardtop 1800SSS (910) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0702.jpg,12680.0,FR,104.0,1050.0,147.0,73 to ? W/Kg,1979.0
+795,Nissan,BLUEBIRD Rally Car (510) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0709.jpg,125000.0,FR,128.0,965.0,152.0,99 to ? W/Kg,1969.0
+796,Nissan,Be-1 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0697.jpg,12930.0,FF,51.0,670.0,74.0,57 to ? W/Kg,1987.0
+798,Nissan,CALSONIC SKYLINE ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0812.jpg,750000.0,FR,454.0,1100.0,686.0,307 to ? W/Kg,2000.0
+799,Nissan,CALSONIC SKYLINE GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0807.jpg,1000000.0,4WD,542.0,1260.0,490.0,321 to 520 W/Kg,1993.0
+801,Nissan,CUBE EX (FF/CVT) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0698.jpg,14420.0,FF,97.0,1070.0,137.0,67 to ? W/Kg,2002.0
+802,Nissan,CUBE X ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0696.jpg,14180.0,FF,81.0,970.0,106.0,62 to ? W/Kg,1998.0
+803,Nissan,Calsonic IMPUL GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0819.jpg,950000.0,FR,493.0,1100.0,510.0,335 to ? W/Kg,2008.0
+804,Nissan,EXA CANOPY L.A.Version Type S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0706.jpg,14810.0,FF,118.0,1070.0,137.0,82 to ? W/Kg,1988.0
+805,Nissan,FALKEN GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0808.jpg,200000.0,4WD,493.0,1360.0,588.0,271 to ? W/Kg,2004.0
+806,Nissan,Fairlady 2000 (SR311) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0719.jpg,55000.0,FR,143.0,930.0,176.0,115 to ? W/Kg,1968.0
+807,Nissan,Fairlady 240ZG (HS30) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0720.jpg,55000.0,FR,148.0,1010.0,206.0,109 to ? W/Kg,1971.0
+808,Nissan,Fairlady Z (Z34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0783.jpg,43750.0,FR,331.0,1530.0,365.0,161 to ? W/Kg,2008.0
+809,Nissan,Fairlady Z 280Z-L 2seater (S130) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0712.jpg,38000.0,FR,143.0,1225.0,225.0,87 to ? W/Kg,1978.0
+810,Nissan,Fairlady Z 300ZX (Z31) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0739.jpg,32000.0,FR,227.0,1380.0,333.0,122 to ? W/Kg,1983.0
+811,Nissan,Fairlady Z 300ZX TwinTurbo 2seater (Z32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0757.jpg,39500.0,FR,276.0,1510.0,388.0,136 to ? W/Kg,1989.0
+812,Nissan,Fairlady Z 300ZX Version R TwinTurbo 2by2 (Z32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0750.jpg,43980.0,FR,276.0,1580.0,388.0,130 to ? W/Kg,1998.0
+813,Nissan,Fairlady Z 300ZX Version S TwinTurbo 2seater (Z32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0754.jpg,39900.0,FR,276.0,1520.0,388.0,136 to ? W/Kg,1998.0
+815,Nissan,Fairlady Z Roadster (Z33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0759.jpg,36000.0,FR,276.0,1550.0,363.0,133 to ? W/Kg,2003.0
+816,Nissan,Fairlady Z Version S (Z33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0768.jpg,33000.0,FR,276.0,1440.0,363.0,143 to ? W/Kg,2002.0
+817,Nissan,Fairlady Z Version S (Z33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0770.jpg,36300.0,FR,309.0,1480.0,358.0,155 to ? W/Kg,2007.0
+818,Nissan,Fairlady Z Version ST (Z33 Option Wheel) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0765.jpg,36000.0,FR,276.0,1450.0,363.0,142 to ? W/Kg,2002.0
+819,Nissan,GRAN TURISMO SKYLINE GT-R ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0801.jpg,125000.0,4WD,444.0,1560.0,475.0,212 to ? W/Kg,2001.0
+820,Nissan,GRAN TURISMO SKYLINE GT-R (PaceCar) ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0784.jpg,100000.0,4WD,321.0,1560.0,392.0,154 to ? W/Kg,2001.0
+821,Nissan,GT-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0802.jpg,77700.0,4WD,473.0,1740.0,588.0,203 to ? W/Kg,2007.0
+823,Nissan,GT-R Black edition ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0805.jpg,94710.0,4WD,542.0,1730.0,632.0,234 to 603 W/Kg,2012.0
+826,Nissan,GT-R GT500 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0822.jpg,950000.0,FR,493.0,1100.0,510.0,335 to ? W/Kg,2008.0
+829,Nissan,GT-R N24 GT Academy ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0806.jpg,500000.0,4WD,544.0,1700.0,632.0,239 to 499 W/Kg,2012.0
+832,Nissan,GT-R NISMO GT3 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0833.jpg,350000.0,FR,542.0,1350.0,637.0,300 to ? W/Kg,2013.0
+834,Nissan,GT-R NISMO GT3 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0832.jpg,350000.0,FR,542.0,1350.0,637.0,300 to ? W/Kg,2013.0
+835,Nissan,GT-R NISMO GT3 N24 Schulze Motorsport ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0831.jpg,350000.0,FR,542.0,1350.0,637.0,300 to ? W/Kg,2013.0
+838,Nissan,GT-R SpecV ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0803.jpg,157500.0,4WD,478.0,1680.0,588.0,213 to ? W/Kg,2009.0
+839,Nissan,ISMO GT3 Nissan GT Academy Team RJN ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1346.jpg,350000.0,FR,592.0,1350.0,689.0,327 to ? W/Kg,2013.0
+840,Nissan,LOCTITE ZEXEL GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0813.jpg,750000.0,FR,454.0,1100.0,686.0,307 to ? W/Kg,2000.0
+841,Nissan,Leaf G ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0705.jpg,40600.0,FF,107.0,1520.0,280.0,53 to ? W/Kg,2011.0
+842,Nissan,MICRA ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0704.jpg,10950.0,FF,89.0,900.0,121.0,73 to ? W/Kg,2003.0
+843,Nissan,MOTUL AUTECH GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0817.jpg,950000.0,FR,444.0,1130.0,470.0,293 to ? W/Kg,2008.0
+844,Nissan,MOTUL PITWORK Z ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0823.jpg,750000.0,FR,458.0,1080.0,706.0,317 to ? W/Kg,2004.0
+845,Nissan,March 12SR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0707.jpg,17830.0,FF,108.0,960.0,134.0,84 to ? W/Kg,2007.0
+846,Nissan,March 12c 5door ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0703.jpg,10950.0,FF,89.0,910.0,121.0,73 to ? W/Kg,2003.0
+847,Nissan,March G# ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0699.jpg,13080.0,FF,78.0,830.0,106.0,70 to ? W/Kg,1999.0
+848,Nissan,OPTION Stream Z ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0826.jpg,200000.0,FR,735.0,1440.0,847.0,381 to ? W/Kg,2004.0
+849,Nissan,PAO ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0694.jpg,15400.0,FF,51.0,760.0,74.0,50 to ? W/Kg,1989.0
+850,Nissan,PENNZOIL Nismo GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0814.jpg,750000.0,FR,493.0,1200.0,706.0,307 to ? W/Kg,1999.0
+851,Nissan,PENNZOIL ZEXEL GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0811.jpg,750000.0,FR,454.0,1100.0,686.0,307 to ? W/Kg,2001.0
+852,Nissan,PRIMERA 2.0Te ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0713.jpg,22840.0,FF,148.0,1170.0,186.0,94 to ? W/Kg,1990.0
+853,Nissan,PRIMERA 20V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0724.jpg,23900.0,FF,201.0,1320.0,206.0,114 to ? W/Kg,2001.0
+854,Nissan,PRIMERA 20V (EU) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0725.jpg,23900.0,FF,201.0,1320.0,206.0,114 to ? W/Kg,2001.0
+855,Nissan,R390 GT1 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0837.jpg,1700000.0,MR,641.0,1000.0,706.0,478 to ? W/Kg,1998.0
+856,Nissan,R390 GT1 Road Car ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0799.jpg,1000000.0,MR,345.0,1180.0,490.0,218 to ? W/Kg,1998.0
+857,Nissan,R89C ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0838.jpg,1750000.0,MR,789.0,900.0,784.0,653 to ? W/Kg,1989.0
+858,Nissan,R92CP ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0839.jpg,1920000.0,MR,789.0,900.0,784.0,653 to ? W/Kg,1992.0
+859,Nissan,SILEIGHTY ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0738.jpg,22880.0,FR,202.0,1170.0,274.0,129 to ? W/Kg,1998.0
+860,Nissan,SILVIA (CSP311) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0700.jpg,45000.0,FR,89.0,980.0,132.0,67 to ? W/Kg,1965.0
+861,Nissan,SILVIA 240RS (S110) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0752.jpg,72200.0,FR,237.0,970.0,235.0,182 to ? W/Kg,1983.0
+862,Nissan,SILVIA K,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0726.jpg,18860.0,FR,173.0,1140.0,225.0,113 to ? W/Kg,
+863,Nissan,SILVIA K,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0737.jpg,20390.0,FR,202.0,1170.0,274.0,129 to ? W/Kg,
+864,Nissan,SILVIA K,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0731.jpg,25340.0,FR,217.0,1220.0,274.0,133 to ? W/Kg,
+865,Nissan,SILVIA K,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0740.jpg,25950.0,FR,217.0,1250.0,274.0,130 to ? W/Kg,
+866,Nissan,SILVIA K,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0727.jpg,22390.0,FR,173.0,1140.0,225.0,113 to ? W/Kg,
+867,Nissan,SILVIA Q,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0710.jpg,15560.0,FR,133.0,1090.0,159.0,91 to 207 W/Kg,
+868,Nissan,SILVIA Q,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0711.jpg,16210.0,FR,138.0,1110.0,178.0,93 to ? W/Kg,
+869,Nissan,SILVIA Q,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0716.jpg,21190.0,FR,158.0,1160.0,188.0,102 to ? W/Kg,
+870,Nissan,SILVIA Q,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0718.jpg,21750.0,FR,158.0,1190.0,188.0,99 to ? W/Kg,
+871,Nissan,SILVIA Varietta (S15) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0715.jpg,27980.0,FR,163.0,1330.0,192.0,91 to ? W/Kg,2000.0
+872,Nissan,SILVIA spec-R AERO (S15) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0748.jpg,25600.0,FR,246.0,1240.0,274.0,148 to ? W/Kg,2002.0
+873,Nissan,SILVIA spec-R AERO (S15) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0749.jpg,25600.0,FR,246.0,1240.0,274.0,148 to ? W/Kg,1999.0
+875,Nissan,SILVIA spec-S AERO (S15) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0722.jpg,20700.0,FR,163.0,1200.0,192.0,101 to ? W/Kg,1999.0
+876,Nissan,SKYLINE 1500Deluxe (S50D-1) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0693.jpg,36800.0,FR,69.0,960.0,113.0,53 to ? W/Kg,1963.0
+877,Nissan,SKYLINE 2000GT-B (S54B) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0708.jpg,23800.0,FR,123.0,1095.0,167.0,84 to ? W/Kg,1967.0
+878,Nissan,SKYLINE 2000GT-R (KPGC110) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0714.jpg,85000.0,FR,158.0,1145.0,176.0,103 to ? W/Kg,1973.0
+879,Nissan,SKYLINE Coupe 350GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0755.jpg,33900.0,FR,276.0,1530.0,363.0,135 to ? W/Kg,2003.0
+880,Nissan,SKYLINE Coupe 370GT Type SP ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0773.jpg,44730.0,FR,328.0,1660.0,363.0,148 to ? W/Kg,2007.0
+881,Nissan,SKYLINE GT-R (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0769.jpg,44500.0,4WD,276.0,1430.0,353.0,144 to ? W/Kg,1989.0
+882,Nissan,SKYLINE GT-R (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0764.jpg,45100.0,4WD,276.0,1480.0,353.0,139 to ? W/Kg,1991.0
+883,Nissan,SKYLINE GT-R (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0774.jpg,47850.0,4WD,276.0,1530.0,368.0,135 to ? W/Kg,1995.0
+884,Nissan,SKYLINE GT-R (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0775.jpg,48250.0,4WD,276.0,1530.0,368.0,135 to ? W/Kg,1996.0
+885,Nissan,SKYLINE GT-R (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0776.jpg,48850.0,4WD,276.0,1530.0,368.0,135 to ? W/Kg,1997.0
+886,Nissan,SKYLINE GT-R (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0793.jpg,50480.0,4WD,276.0,1540.0,392.0,134 to ? W/Kg,2000.0
+887,Nissan,SKYLINE GT-R (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0790.jpg,49980.0,4WD,276.0,1540.0,392.0,134 to ? W/Kg,1999.0
+888,Nissan,SKYLINE GT-R M-spec (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0787.jpg,59500.0,4WD,276.0,1560.0,392.0,132 to ? W/Kg,2001.0
+889,Nissan,SKYLINE GT-R M-spec Nür (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0795.jpg,63000.0,4WD,276.0,1580.0,392.0,130 to ? W/Kg,2002.0
+890,Nissan,SKYLINE GT-R N1 (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0766.jpg,43050.0,4WD,276.0,1470.0,353.0,140 to ? W/Kg,1991.0
+891,Nissan,SKYLINE GT-R N1 (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0780.jpg,59900.0,4WD,276.0,1540.0,368.0,134 to ? W/Kg,1995.0
+895,Nissan,SKYLINE GT-R Special Color Midnight Purple II (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0785.jpg,49980.0,4WD,276.0,1550.0,392.0,133 to ? W/Kg,1999.0
+896,Nissan,SKYLINE GT-R Special Color Midnight Purple III (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0786.jpg,51480.0,4WD,276.0,1550.0,392.0,133 to ? W/Kg,2000.0
+897,Nissan,SKYLINE GT-R V-spec (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0763.jpg,52600.0,4WD,276.0,1500.0,353.0,137 to ? W/Kg,1993.0
+898,Nissan,SKYLINE GT-R V-spec (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0777.jpg,52900.0,4WD,276.0,1540.0,368.0,134 to ? W/Kg,1995.0
+899,Nissan,SKYLINE GT-R V-spec (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0778.jpg,53300.0,4WD,276.0,1540.0,368.0,134 to ? W/Kg,1996.0
+900,Nissan,SKYLINE GT-R V-spec (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0779.jpg,53900.0,4WD,276.0,1540.0,368.0,134 to ? W/Kg,1997.0
+901,Nissan,SKYLINE GT-R V-spec (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0791.jpg,55980.0,4WD,276.0,1560.0,392.0,132 to ? W/Kg,1999.0
+902,Nissan,SKYLINE GT-R V-spec II (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0771.jpg,52900.0,4WD,276.0,1500.0,353.0,137 to ? W/Kg,1994.0
+903,Nissan,SKYLINE GT-R V-spec II (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0792.jpg,57480.0,4WD,276.0,1560.0,392.0,132 to ? W/Kg,2000.0
+904,Nissan,SKYLINE GT-R V-spec II N1 (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0789.jpg,60980.0,4WD,276.0,1550.0,392.0,133 to ? W/Kg,2000.0
+905,Nissan,SKYLINE GT-R V-spec II Nur (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0794.jpg,61000.0,4WD,276.0,1560.0,392.0,132 to ? W/Kg,2002.0
+906,Nissan,SKYLINE GT-R V-spec LM Limited (R33) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0772.jpg,53900.0,4WD,276.0,1540.0,368.0,134 to ? W/Kg,1996.0
+907,Nissan,SKYLINE GT-R V-spec N1 (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0767.jpg,50900.0,4WD,276.0,1470.0,353.0,140 to ? W/Kg,1993.0
+908,Nissan,SKYLINE GT-R V-spec N1 (R34) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0788.jpg,59980.0,4WD,276.0,1550.0,392.0,133 to ? W/Kg,1999.0
+909,Nissan,SKYLINE GTS-R (R31) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0730.jpg,34000.0,FR,207.0,1340.0,245.0,115 to ? W/Kg,1987.0
+910,Nissan,SKYLINE GTS-t Type M (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0733.jpg,23850.0,FR,212.0,1260.0,265.0,125 to ? W/Kg,1989.0
+911,Nissan,SKYLINE GTS-t Type M (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0732.jpg,26610.0,FR,212.0,1260.0,265.0,125 to ? W/Kg,1991.0
+912,Nissan,SKYLINE GTS25 Type S (R32) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0723.jpg,24430.0,FR,177.0,1320.0,225.0,100 to ? W/Kg,1991.0
+913,Nissan,SKYLINE Hard Top 2000 RS-X Turbo C (R30) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0729.jpg,27750.0,FR,202.0,1250.0,245.0,121 to ? W/Kg,1984.0
+914,Nissan,SKYLINE Hard Top 2000 Turbo RS (R30) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0728.jpg,25180.0,FR,187.0,1175.0,225.0,119 to ? W/Kg,1983.0
+915,Nissan,SKYLINE Hard Top 2000GT-R (KPGC10) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0717.jpg,80000.0,FR,158.0,1100.0,176.0,107 to ? W/Kg,1970.0
+916,Nissan,SKYLINE Sedan 300GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0745.jpg,32500.0,FR,256.0,1490.0,323.0,128 to ? W/Kg,2001.0
+917,Nissan,SKYLINE Sedan 350GT Type SP ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0762.jpg,38000.0,FR,311.0,1610.0,358.0,144 to ? W/Kg,2006.0
+918,Nissan,SKYLINE Sedan 350GT-8 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0747.jpg,36600.0,FR,268.0,1550.0,353.0,129 to ? W/Kg,2002.0
+919,Nissan,SKYLINE Sport Coupe (BLRA-3) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0695.jpg,320000.0,FR,93.0,1350.0,153.0,51 to ? W/Kg,1962.0
+920,Nissan,STAGEA 25t RS FOUR S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0743.jpg,32600.0,4WD,276.0,1650.0,343.0,125 to ? W/Kg,1998.0
+921,Nissan,STAGEA 260RS AutechVersion ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0744.jpg,45000.0,4WD,276.0,1720.0,368.0,120 to ? W/Kg,1998.0
+922,Nissan,WOODONE ADVAN Clarion GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0821.jpg,950000.0,FR,493.0,1100.0,510.0,335 to ? W/Kg,2008.0
+923,Nissan,XANAVI HIROTO GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0815.jpg,750000.0,FR,454.0,1100.0,686.0,307 to ? W/Kg,2001.0
+924,Nissan,XANAVI NISMO GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0825.jpg,750000.0,FR,478.0,1080.0,735.0,331 to ? W/Kg,2003.0
+925,Nissan,XANAVI NISMO GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0818.jpg,950000.0,FR,493.0,1100.0,510.0,335 to ? W/Kg,2008.0
+926,Nissan,XANAVI NISMO Z ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0827.jpg,950000.0,FR,493.0,1100.0,706.0,335 to ? W/Kg,2006.0
+927,Nissan,YellowHat YMS TOMICA GT-R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0820.jpg,950000.0,FR,493.0,1100.0,510.0,335 to ? W/Kg,2008.0
+928,Nissan,Z GT500 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0828.jpg,950000.0,FR,493.0,1100.0,706.0,335 to ? W/Kg,2006.0
+931,Opel,Astra V8 Coupé (Opel Team Phoenix) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0240.jpg,1000000.0,FR,454.0,1000.0,500.0,338 to ? W/Kg,2000.0
+932,Opel,Calibra Touring Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0239.jpg,1250000.0,4WD,414.0,1040.0,280.0,297 to ? W/Kg,1994.0
+933,Opel,Corsa Comfort 1.4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0234.jpg,17960.0,FF,89.0,998.0,125.0,66 to ? W/Kg,2001.0
+934,Opel,Opel Tigra 1.6i ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0235.jpg,29140.0,FF,105.0,1032.0,148.0,76 to ? W/Kg,1999.0
+935,Opel,Speedster ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0237.jpg,44690.0,MR,145.0,850.0,203.0,127 to ? W/Kg,2000.0
+936,Opel,Speedster Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0238.jpg,49550.0,MR,197.0,1005.0,250.0,146 to ? W/Kg,2000.0
+937,Opel,Vectra 3.2 V6 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0236.jpg,36530.0,FF,208.0,1510.0,300.0,103 to ? W/Kg,2003.0
+940,Oullim Motors,Spirra Prototype ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0842.jpg,80000.0,MR,319.0,1205.0,426.0,198 to ? W/Kg,2004.0
+941,Pagani,Huayra ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0245.jpg,1350000.0,MR,720.0,1350.0,1000.0,398 to 842 W/Kg,2011.0
+942,Pagani,Huayra ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0246.jpg,1350000.0,MR,730.0,1350.0,1100.0,403 to 832 W/Kg,2013.0
+944,Pagani,Zonda C12 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0241.jpg,388720.0,MR,388.0,1250.0,570.0,232 to ? W/Kg,2000.0
+945,Pagani,Zonda C12S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0242.jpg,450040.0,MR,542.0,1350.0,750.0,300 to ? W/Kg,2000.0
+946,Pagani,Zonda C12S 7.3 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0243.jpg,1000000.0,MR,547.0,1250.0,750.0,326 to ? W/Kg,2002.0
+948,Pagani,Zonda R ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0247.jpg,1650000.0,MR,739.0,1070.0,710.0,516 to 815 W/Kg,2009.0
+950,Pescarolo,C60 Hybride - Judd ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0250.jpg,1900000.0,MR,877.0,900.0,600.0,728 to 969 W/Kg,2005.0
+951,Pescarolo,Courage - Judd GV5 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0248.jpg,1900000.0,MR,765.0,900.0,680.0,634 to ? W/Kg,2004.0
+953,Peugeot,106 Rallye ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0251.jpg,12630.0,FF,102.0,890.0,132.0,85 to ? W/Kg,2003.0
+954,Peugeot,106 S16 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0254.jpg,18810.0,FF,116.0,960.0,142.0,91 to ? W/Kg,2003.0
+955,Peugeot,205 Turbo 16 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0261.jpg,78400.0,4WD,194.0,1145.0,255.0,127 to 346 W/Kg,1985.0
+956,Peugeot,205 Turbo 16 Evolution 2 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0264.jpg,1450000.0,4WD,450.0,910.0,490.0,368 to ? W/Kg,1986.0
+957,Peugeot,205 Turbo 16 Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0263.jpg,1450000.0,4WD,345.0,940.0,440.0,273 to ? W/Kg,1985.0
+958,Peugeot,206 CC ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0255.jpg,26520.0,FF,134.0,1190.0,190.0,84 to ? W/Kg,2001.0
+959,Peugeot,206 RC ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0258.jpg,29090.0,FF,175.0,1110.0,202.0,117 to ? W/Kg,2003.0
+960,Peugeot,206 Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0262.jpg,300000.0,4WD,300.0,1230.0,535.0,182 to 314 W/Kg,1999.0
+961,Peugeot,206 S16 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0256.jpg,23070.0,FF,138.0,1080.0,183.0,95 to ? W/Kg,1999.0
+962,Peugeot,207 GTi ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0259.jpg,32000.0,FF,173.0,1260.0,240.0,102 to ? W/Kg,2007.0
+963,Peugeot,307 CC Premium AVN ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0252.jpg,43260.0,FF,135.0,1490.0,190.0,68 to 200 W/Kg,2004.0
+964,Peugeot,307 XSi ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0253.jpg,27940.0,FF,135.0,1260.0,190.0,80 to ? W/Kg,2004.0
+965,Peugeot,406 Coupé 3.0 V6 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0257.jpg,45000.0,FF,204.0,1560.0,285.0,97 to ? W/Kg,1998.0
+966,Peugeot,905B Evo 1 Bis LM ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0268.jpg,1970000.0,MR,513.0,750.0,343.0,509 to ? W/Kg,1992.0
+967,Peugeot,908 HDi FAP - Team Oreca Matmut ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0266.jpg,1900000.0,MR,700.0,930.0,1200.0,561 to ? W/Kg,2010.0
+968,Peugeot,908 HDi FAP - Team Peugeot Total ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0265.jpg,1900000.0,MR,700.0,930.0,1200.0,561 to ? W/Kg,2010.0
+969,Peugeot,908 HDi FAP Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0267.jpg,1900000.0,MR,700.0,930.0,1200.0,561 to ? W/Kg,2010.0
+970,Peugeot,RCZ ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0260.jpg,42300.0,FF,197.0,1350.0,240.0,109 to 311 W/Kg,2010.0
+972,Plymouth,AAR Cuda 340 Six Barrel ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1118.jpg,110000.0,FR,290.0,1594.0,467.0,136 to 394 W/Kg,1970.0
+973,Plymouth,Cuda 440 Six Pack ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1119.jpg,58360.0,FR,385.0,1576.0,651.0,182 to ? W/Kg,1971.0
+974,Plymouth,Superbird ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1120.jpg,42440.0,FR,425.0,1755.0,664.0,181 to ? W/Kg,1970.0
+975,Plymouth,XNR Ghia Roadster ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1117.jpg,1000000.0,FR,243.0,1500.0,271.0,121 to 315 W/Kg,1960.0
+976,Pontiac,Firebird Trans Am ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1123.jpg,30000.0,FR,220.0,1640.0,435.0,100 to ? W/Kg,1978.0
+977,Pontiac,GTO 5.7 Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1126.jpg,34490.0,FR,350.0,1690.0,495.0,154 to ? W/Kg,2004.0
+978,Pontiac,Solstice Coupe Concept ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1124.jpg,35000.0,FR,240.0,1318.0,305.0,136 to ? W/Kg,2002.0
+980,Pontiac,Tempest Le Mans GTO ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1125.jpg,52600.0,FR,325.0,1420.0,580.0,171 to ? W/Kg,1964.0
+981,Pontiac,Vibe GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1121.jpg,21120.0,FF,180.0,1273.0,176.0,106 to ? W/Kg,2003.0
+983,RE Amemiya,ASPARADRINK RX7 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0843.jpg,300000.0,FR,306.0,1100.0,323.0,207 to ? W/Kg,2004.0
+984,RE Amemiya,AsparaDrink RX7 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0844.jpg,500000.0,FR,306.0,1100.0,323.0,207 to ? W/Kg,2006.0
+986,RE Amemiya,RX7 GT300 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0845.jpg,500000.0,FR,306.0,1100.0,323.0,207 to ? W/Kg,2006.0
+987,RUF,3400S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0288.jpg,77730.0,MR,306.0,1300.0,360.0,175 to ? W/Kg,2000.0
+988,RUF,BTR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0289.jpg,112480.0,RR,369.0,1180.0,480.0,233 to ? W/Kg,1986.0
+989,RUF,"CTR ""Yellow Bird"" ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0291.jpg,236630.0,RR,462.0,1150.0,553.0,300 to ? W/Kg,1987.0
+990,RUF,CTR2 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0292.jpg,297110.0,4WD,513.0,1380.0,685.0,277 to 600 W/Kg,1996.0
+991,RUF,RGT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0290.jpg,143250.0,RR,380.0,1330.0,375.0,213 to ? W/Kg,2000.0
+992,Ram,1500 LARAMIE Hemi Quad Cab ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1128.jpg,37930.0,4WD,345.0,2390.0,508.0,108 to ? W/Kg,2004.0
+993,Renault Sport,Clio R.S. ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0276.jpg,36400.0,FF,199.0,1240.0,215.0,120 to 355 W/Kg,2011.0
+994,Renault Sport,Clio R.S. 2.0 16V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0274.jpg,29700.0,FF,170.0,1035.0,203.0,123 to ? W/Kg,2002.0
+995,Renault Sport,Clio V6 24V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0278.jpg,45500.0,MR,230.0,1335.0,300.0,128 to ? W/Kg,2000.0
+996,Renault Sport,Clio V6 Phase 2 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0279.jpg,53720.0,MR,251.0,1400.0,300.0,134 to ? W/Kg,2003.0
+998,Renault Sport,Lutecia R.S. 2.0 16V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0275.jpg,29700.0,FF,170.0,1035.0,203.0,123 to ? W/Kg,2002.0
+1000,Renault Sport,Lutécia V6 24V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0281.jpg,50520.0,MR,227.0,1335.0,300.0,127 to ? W/Kg,2001.0
+1001,Renault Sport,Lutécia V6 Phase 2 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0280.jpg,53720.0,MR,255.0,1400.0,300.0,136 to ? W/Kg,2003.0
+1002,Renault Sport,Mégane R.S. ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0277.jpg,41000.0,FF,221.0,1400.0,300.0,118 to 321 W/Kg,2008.0
+1003,Renault Sport,Mégane R.S. Trophy ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0282.jpg,38500.0,FF,253.0,1387.0,360.0,136 to ? W/Kg,2011.0
+1004,Renault Sport,Mégane Trophy ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0286.jpg,100000.0,MR,359.0,955.0,390.0,272 to 426 W/Kg,2011.0
+1005,Renault Sport,Mégane Trophy Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0287.jpg,100000.0,MR,359.0,955.0,390.0,281 to ? W/Kg,2011.0
+1007,Renault Sport,R5 Turbo Rallye ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0285.jpg,1000000.0,MR,339.0,905.0,421.0,280 to ? W/Kg,1985.0
+1008,Renault,Avantime ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0272.jpg,52570.0,FF,198.0,1741.0,289.0,85 to ? W/Kg,2002.0
+1009,Renault,Mégane 2.0 16V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0270.jpg,26390.0,FF,131.0,1230.0,191.0,80 to ? W/Kg,2003.0
+1010,Renault,Mégane 2.0 IDE Coupé ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0271.jpg,26600.0,FF,138.0,1135.0,200.0,91 to ? W/Kg,2000.0
+1011,Renault,R5 Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0273.jpg,74500.0,MR,155.0,970.0,221.0,119 to ? W/Kg,1980.0
+1012,Renault,R8 Gordini ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0269.jpg,50000.0,RR,99.0,850.0,117.0,87 to 307 W/Kg,1966.0
+1013,SRT,4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1139.jpg,20640.0,FF,212.0,1350.0,331.0,117 to ? W/Kg,2003.0
+1014,SRT,Challenger SRT8 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1140.jpg,40027.0,FR,425.0,1878.0,569.0,169 to ? W/Kg,2008.0
+1016,SRT,Charger SRT8 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1141.jpg,46660.0,FR,470.0,1980.0,637.0,177 to ? W/Kg,2011.0
+1020,SRT,Viper GTS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1143.jpg,90400.0,FR,450.0,1569.0,663.0,214 to 674 W/Kg,2002.0
+1021,SRT,Viper GTS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1148.jpg,123000.0,FR,640.0,1556.0,814.0,307 to ? W/Kg,2013.0
+1022,SRT,Viper GTS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1142.jpg,78000.0,FR,450.0,1569.0,663.0,214 to ? W/Kg,1999.0
+1024,SRT,Viper GTS Launch Edition ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1149.jpg,138000.0,FR,640.0,1556.0,814.0,307 to 651 W/Kg,2013.0
+1025,SRT,Viper GTS R Concept ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1146.jpg,1000000.0,FR,483.0,1475.0,676.0,244 to 655 W/Kg,2000.0
+1028,SRT,Viper SRT10 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1144.jpg,84880.0,FR,500.0,1533.0,712.0,243 to ? W/Kg,2003.0
+1029,SRT,Viper SRT10 ACR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1150.jpg,100000.0,FR,603.0,1552.0,760.0,290 to 643 W/Kg,2008.0
+1030,SRT,Viper SRT10 Coupe ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1145.jpg,99770.0,FR,510.0,1565.0,725.0,243 to ? W/Kg,2006.0
+1031,Saleen,S7 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1129.jpg,419130.0,MR,550.0,1250.0,714.0,328 to ? W/Kg,2002.0
+1033,Scion,xA ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1131.jpg,16000.0,FF,107.0,1020.0,141.0,78 to ? W/Kg,2003.0
+1034,Scion,xB ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1130.jpg,15780.0,FF,107.0,1040.0,141.0,77 to ? W/Kg,2003.0
+1035,Seat,Ibiza Cupra ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0293.jpg,24980.0,FF,180.0,1177.0,245.0,115 to ? W/Kg,2004.0
+1036,Shelby,Cobra 427 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1137.jpg,530550.0,FR,485.0,1068.0,651.0,339 to ? W/Kg,1966.0
+1038,Shelby,Cobra Daytona Coupe ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1136.jpg,4500000.0,FR,374.0,1043.0,461.0,267 to ? W/Kg,1964.0
+1040,Shelby,GT350 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1133.jpg,50000.0,FR,306.0,1270.0,446.0,180 to ? W/Kg,1965.0
+1041,Shelby,GT350R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1134.jpg,106110.0,FR,306.0,1268.0,446.0,180 to ? W/Kg,1965.0
+1042,Shelby,Series One Super Charged ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1135.jpg,184630.0,FR,319.0,1202.0,393.0,198 to ? W/Kg,2003.0
+1043,Spoon,CIVIC TYPE R (EK) ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0850.jpg,75000.0,FF,215.0,820.0,158.0,195 to ? W/Kg,2000.0
+1048,Spoon,S2000 Race Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0852.jpg,125000.0,FR,311.0,1050.0,211.0,221 to ? W/Kg,2000.0
+1049,Spyker,C8 Laviolette ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0294.jpg,254660.0,MR,450.0,1070.0,480.0,313 to ? W/Kg,2001.0
+1051,Subaru,360 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0853.jpg,36000.0,RR,15.0,385.0,29.0,29 to ? W/Kg,1958.0
+1052,Subaru,BRZ GT300 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0892.jpg,500000.0,FR,345.0,1150.0,441.0,223 to ? W/Kg,2012.0
+1053,Subaru,BRZ R&D SPORT ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0891.jpg,500000.0,FR,345.0,1150.0,441.0,223 to ? W/Kg,2012.0
+1054,Subaru,BRZ S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0854.jpg,30000.0,FR,197.0,1230.0,205.0,120 to ? W/Kg,2012.0
+1055,Subaru,CUSCO DUNLOP SUBARU IMPREZA ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0888.jpg,500000.0,4WD,296.0,1100.0,392.0,201 to ? W/Kg,2008.0
+1056,Subaru,CUSCO SUBARU ADVAN IMPREZA ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0890.jpg,300000.0,FR,296.0,1100.0,392.0,201 to ? W/Kg,2003.0
+1057,Subaru,IMPREZA Coupe 22B-STÌ Version ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0873.jpg,50000.0,4WD,276.0,1270.0,363.0,162 to ? W/Kg,1998.0
+1058,Subaru,IMPREZA Coupe WRX typeR STi Version VI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0876.jpg,30090.0,4WD,276.0,1260.0,353.0,163 to ? W/Kg,1999.0
+1059,Subaru,IMPREZA GT300 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0889.jpg,500000.0,4WD,296.0,1100.0,392.0,201 to ? W/Kg,2008.0
+1060,Subaru,IMPREZA Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0884.jpg,300000.0,4WD,296.0,1230.0,470.0,180 to ? W/Kg,2001.0
+1061,Subaru,IMPREZA Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0883.jpg,300000.0,4WD,300.0,1230.0,470.0,182 to ? W/Kg,1999.0
+1064,Subaru,IMPREZA Sedan WRX STI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0879.jpg,37380.0,4WD,304.0,1490.0,421.0,152 to ? W/Kg,2010.0
+1066,Subaru,IMPREZA Sedan WRX STI spec C Type RA ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0877.jpg,38220.0,4WD,276.0,1390.0,421.0,148 to ? W/Kg,2005.0
+1067,Subaru,IMPREZA Sedan WRX STi ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0859.jpg,27780.0,4WD,246.0,1230.0,309.0,150 to ? W/Kg,1994.0
+1068,Subaru,IMPREZA Sedan WRX STi (Type-Il) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0874.jpg,28950.0,4WD,276.0,1440.0,394.0,143 to ? W/Kg,2002.0
+1069,Subaru,IMPREZA Sedan WRX STi Version (Type-I) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0870.jpg,31980.0,4WD,276.0,1430.0,372.0,144 to ? W/Kg,2000.0
+1070,Subaru,IMPREZA Sedan WRX STi Version II ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0861.jpg,27480.0,4WD,271.0,1240.0,319.0,163 to ? W/Kg,1995.0
+1071,Subaru,IMPREZA Sedan WRX STi Version III ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0866.jpg,28850.0,4WD,276.0,1250.0,343.0,165 to ? W/Kg,1996.0
+1072,Subaru,IMPREZA Sedan WRX STi Version IV ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0867.jpg,28990.0,4WD,276.0,1250.0,353.0,165 to ? W/Kg,1997.0
+1073,Subaru,IMPREZA Sedan WRX STi Version V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0871.jpg,29190.0,4WD,276.0,1270.0,353.0,162 to ? W/Kg,1998.0
+1074,Subaru,IMPREZA Sedan WRX STi Version VI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0875.jpg,29190.0,4WD,276.0,1270.0,353.0,162 to ? W/Kg,1999.0
+1075,Subaru,IMPREZA Sedan WRX STi spec C (Type-II) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0880.jpg,33920.0,4WD,276.0,1370.0,412.0,150 to ? W/Kg,2004.0
+1076,Subaru,IMPREZA Sport Wagon STi (Type-I) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0869.jpg,29980.0,4WD,276.0,1430.0,372.0,144 to ? W/Kg,2000.0
+1077,Subaru,IMPREZA Sport Wagon WRX STi Version VI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0868.jpg,29190.0,4WD,276.0,1310.0,353.0,157 to ? W/Kg,1999.0
+1081,Subaru,IMPREZA WRX STI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0878.jpg,36540.0,4WD,304.0,1470.0,421.0,154 to ? W/Kg,2007.0
+1082,Subaru,IMPREZA WRX STI spec C ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0881.jpg,36855.0,4WD,304.0,1450.0,421.0,157 to ? W/Kg,2009.0
+1083,Subaru,IMPREZA WRX STi Prodrive Style (Type-I) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0872.jpg,31450.0,4WD,276.0,1430.0,372.0,144 to ? W/Kg,2001.0
+1084,Subaru,LEGACY B4 2.0GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0864.jpg,27300.0,4WD,276.0,1410.0,343.0,146 to ? W/Kg,2003.0
+1085,Subaru,LEGACY B4 2.0GT spec.B ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0865.jpg,28800.0,4WD,276.0,1430.0,343.0,144 to ? W/Kg,2003.0
+1086,Subaru,LEGACY B4 3.0R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0856.jpg,28500.0,4WD,246.0,1460.0,304.0,126 to ? W/Kg,2003.0
+1087,Subaru,LEGACY B4 Blitzen ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0860.jpg,30000.0,4WD,276.0,1450.0,343.0,142 to ? W/Kg,2000.0
+1088,Subaru,LEGACY B4 RSK ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0857.jpg,25880.0,4WD,276.0,1440.0,343.0,143 to ? W/Kg,1998.0
+1089,Subaru,LEGACY Touring Wagon 2.0GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0862.jpg,28800.0,4WD,276.0,1430.0,343.0,144 to ? W/Kg,2003.0
+1090,Subaru,LEGACY Touring Wagon 2.0GT spec.B ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0863.jpg,30300.0,4WD,276.0,1450.0,343.0,142 to ? W/Kg,2003.0
+1091,Subaru,LEGACY Touring Wagon 3.OR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0855.jpg,30000.0,4WD,246.0,1480.0,304.0,124 to ? W/Kg,2003.0
+1092,Subaru,LEGACY Touring Wagon GT-B ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0858.jpg,29330.0,4WD,276.0,1430.0,338.0,144 to ? W/Kg,1996.0
+1093,Subaru,S206 NBR CHALLENGE PACKAGE ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0882.jpg,59500.0,4WD,315.0,1470.0,431.0,160 to 393 W/Kg,2012.0
+1095,Suzuki,ALTO LAPIN Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0896.jpg,12400.0,4WD,59.0,840.0,83.0,52 to ? W/Kg,2002.0
+1096,Suzuki,ALTO WORKS RS-Z ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0903.jpg,12200.0,4WD,63.0,710.0,103.0,66 to ? W/Kg,1997.0
+1097,Suzuki,ALTO WORKS SUZUKI SPORT LIMITED ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0902.jpg,11150.0,4WD,63.0,710.0,103.0,66 to ? W/Kg,1997.0
+1098,Suzuki,CERVO SR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0899.jpg,14180.0,FF,63.0,820.0,103.0,57 to ? W/Kg,2007.0
+1100,Suzuki,Cappuccino (EA11R) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0901.jpg,14580.0,FR,63.0,700.0,85.0,67 to ? W/Kg,1991.0
+1101,Suzuki,Cappuccino (EA21R) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0904.jpg,14600.0,FR,63.0,690.0,103.0,68 to ? W/Kg,1995.0
+1103,Suzuki,GSX-R/4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0909.jpg,125000.0,MR,173.0,640.0,138.0,202 to ? W/Kg,2001.0
+1104,Suzuki,Kei WORKS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0900.jpg,14140.0,4WD,63.0,820.0,106.0,57 to ? W/Kg,2002.0
+1105,Suzuki,MR Wagon Sport ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0898.jpg,12800.0,FF,63.0,860.0,106.0,55 to ? W/Kg,2004.0
+1106,Suzuki,SWIFT Sport ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0906.jpg,16200.0,FF,123.0,1060.0,148.0,87 to ? W/Kg,2005.0
+1107,Suzuki,SWIFT Sport ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0905.jpg,16300.0,FF,123.0,1060.0,148.0,87 to ? W/Kg,2007.0
+1108,Suzuki,SX4 WRC ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0910.jpg,850000.0,4WD,315.0,1230.0,588.0,191 to ? W/Kg,2008.0
+1109,Suzuki,V6 ESCUDO Pikes Peak Special ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0911.jpg,1450000.0,4WD,981.0,800.0,931.0,915 to ? W/Kg,1998.0
+1110,Suzuki,WAGON R RR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0897.jpg,12820.0,4WD,63.0,820.0,106.0,57 to ? W/Kg,1998.0
+1111,TRD,CELICA TRD Sports M (ZZT231) ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_1231.jpg,22500.0,FF,197.0,1140.0,188.0,129 to ? W/Kg,2000.0
+1112,TRIAL,TRIAL CELICA SS-II (ZZT231) ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_1232.jpg,125000.0,FF,279.0,1140.0,271.0,182 to ? W/Kg,2003.0
+1113,TVR,Cerbera Speed 12 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0303.jpg,259970.0,FR,800.0,1020.0,881.0,584 to 897 W/Kg,2000.0
+1114,TVR,Cerbera Speed 6 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0299.jpg,79880.0,FR,350.0,1130.0,447.0,231 to ? W/Kg,1997.0
+1115,TVR,Griffith 500 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0298.jpg,58730.0,FR,319.0,1060.0,434.0,225 to ? W/Kg,1994.0
+1116,TVR,T350C ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0297.jpg,74830.0,FR,350.0,1187.0,393.0,220 to ? W/Kg,2003.0
+1117,TVR,Tamora ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0300.jpg,70940.0,FR,345.0,1060.0,393.0,242 to 451 W/Kg,2002.0
+1118,TVR,Tuscan Speed 6 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0301.jpg,94800.0,FR,360.0,1100.0,420.0,244 to ? W/Kg,2000.0
+1120,TVR,V8S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0296.jpg,59400.0,FR,240.0,1050.0,365.0,170 to ? W/Kg,1991.0
+1122,Tesla Motors,Model S Signature Performance ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1155.jpg,92000.0,RR,415.0,2018.0,600.0,154 to 210 W/Kg,2012.0
+1124,Tesla Motors,Tesla Roadster ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1154.jpg,100000.0,MR,248.0,1238.0,370.0,149 to 200 W/Kg,2008.0
+1125,Tom's,X540 CHASER ,Tuned,https://www.kudosprime.com/gt6/images/cars/gt6_car_0915.jpg,50000.0,FR,315.0,1490.0,412.0,158 to ? W/Kg,2000.0
+1126,Tommykaira,ZZ-S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0913.jpg,59500.0,MR,192.0,690.0,196.0,207 to ? W/Kg,2000.0
+1128,Toyota,2000GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0942.jpg,160000.0,FR,148.0,1120.0,176.0,98 to ? W/Kg,1967.0
+1140,Toyota,7 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1005.jpg,1950000.0,MR,789.0,620.0,725.0,948 to 1408 W/Kg,1970.0
+1141,Toyota,"86 ""Racing"" ",Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0964.jpg,28000.0,FR,197.0,1230.0,205.0,120 to 309 W/Kg,2013.0
+1142,Toyota,86 GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0965.jpg,30000.0,FR,197.0,1230.0,205.0,120 to 325 W/Kg,2012.0
+1144,Toyota,86 Race Car Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0960.jpg,50000.0,FR,192.0,1230.0,205.0,116 to ? W/Kg,2012.0
+1145,Toyota,ALTEZZA AS200 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0938.jpg,20700.0,FR,158.0,1310.0,200.0,90 to ? W/Kg,1998.0
+1146,Toyota,ALTEZZA Gita AS300 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0962.jpg,27600.0,FR,217.0,1470.0,294.0,110 to ? W/Kg,2001.0
+1147,Toyota,ALTEZZA RS200 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0957.jpg,24000.0,FR,207.0,1340.0,216.0,115 to ? W/Kg,1998.0
+1149,Toyota,ARISTO 3.0V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0975.jpg,47400.0,FR,276.0,1680.0,431.0,123 to ? W/Kg,1991.0
+1150,Toyota,ARISTO V300 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0979.jpg,44200.0,FR,276.0,1680.0,451.0,123 to ? W/Kg,2000.0
+1151,Toyota,ARISTO V300 Vertex Edition ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0980.jpg,45500.0,FR,276.0,1680.0,451.0,123 to ? W/Kg,2000.0
+1152,Toyota,Aqua S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0927.jpg,17900.0,FF,73.0,1080.0,111.0,50 to ? W/Kg,2011.0
+1153,Toyota,CALDINA GT-FOUR ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0970.jpg,27100.0,4WD,256.0,1480.0,323.0,129 to ? W/Kg,2002.0
+1154,Toyota,CARINA ED 2.0 X 4WS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0928.jpg,17350.0,FF,123.0,1200.0,169.0,77 to ? W/Kg,1989.0
+1155,Toyota,CELICA 1600GT (TA22) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0933.jpg,23900.0,FR,113.0,940.0,142.0,90 to ? W/Kg,1970.0
+1156,Toyota,CELICA 2000GT-FOUR (ST165) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0955.jpg,29760.0,4WD,182.0,1350.0,240.0,101 to ? W/Kg,1986.0
+1157,Toyota,CELICA 2000GT-R (ST162) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0949.jpg,20770.0,FF,158.0,1130.0,186.0,104 to ? W/Kg,1986.0
+1158,Toyota,CELICA GT-FOUR (ST205) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0969.jpg,33020.0,4WD,251.0,1390.0,304.0,135 to ? W/Kg,1998.0
+1159,Toyota,CELICA GT-FOUR RC (ST185) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0966.jpg,31710.0,4WD,232.0,1460.0,304.0,118 to ? W/Kg,1991.0
+1160,Toyota,CELICA GT-FOUR Rally Car (ST185) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0984.jpg,350000.0,4WD,295.0,1200.0,490.0,183 to ? W/Kg,1995.0
+1162,Toyota,"CELICA GT-R (ST183, 4WS) ",Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0940.jpg,22100.0,FF,163.0,1310.0,191.0,92 to ? W/Kg,1991.0
+1163,Toyota,CELICA SS-II (ST202) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0958.jpg,21360.0,FF,197.0,1200.0,206.0,123 to ? W/Kg,1997.0
+1164,Toyota,CELICA SS-II (ZZT231 ) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0956.jpg,21810.0,FF,187.0,1140.0,181.0,123 to ? W/Kg,1999.0
+1165,Toyota,CELICA XX 2800GT ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0950.jpg,23230.0,FR,168.0,1235.0,235.0,101 to ? W/Kg,1981.0
+1166,Toyota,COROLLA LEVIN BZ-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0951.jpg,18900.0,FF,163.0,1080.0,162.0,112 to ? W/Kg,1998.0
+1167,Toyota,COROLLA LEVIN GT-APEX (AE86) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0937.jpg,15360.0,FR,128.0,940.0,149.0,102 to ? W/Kg,1983.0
+1168,Toyota,COROLLA RUNX Z AEROTOURER ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0953.jpg,20080.0,FF,187.0,1160.0,180.0,121 to ? W/Kg,2002.0
+1169,Toyota,COROLLA Rally Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0986.jpg,300000.0,4WD,299.0,1230.0,510.0,181 to ? W/Kg,1998.0
+1170,Toyota,Castrol TOM,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0995.jpg,750000.0,FR,463.0,1100.0,637.0,315 to ? W/Kg,
+1171,Toyota,Castrol TOM,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0996.jpg,750000.0,FR,463.0,1100.0,637.0,315 to ? W/Kg,
+1173,Toyota,DENSO SARD SUPRA GT ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0997.jpg,750000.0,FR,463.0,1100.0,637.0,315 to ? W/Kg,2000.0
+1180,Toyota,GAZOO Racing TOYOTA 86 #166 ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0959.jpg,50000.0,FR,192.0,1230.0,205.0,116 to ? W/Kg,2012.0
+1181,Toyota,GT-One (TS020) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1003.jpg,1700000.0,MR,599.0,900.0,650.0,497 to ? W/Kg,1999.0
+1182,Toyota,MINOLTA Toyota 88C-V ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1004.jpg,1920000.0,MR,789.0,850.0,784.0,692 to ? W/Kg,1989.0
+1183,Toyota,MR-S S Edition ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0945.jpg,19800.0,MR,138.0,970.0,170.0,106 to ? W/Kg,1999.0
+1184,Toyota,MR-S V Edition (6MT) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0947.jpg,21800.0,MR,138.0,980.0,170.0,105 to ? W/Kg,2002.0
+1185,Toyota,MR2 1600 G ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0934.jpg,16910.0,MR,128.0,1120.0,149.0,86 to ? W/Kg,1986.0
+1186,Toyota,MR2 1600 G-Limited Super Charger ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0941.jpg,21000.0,MR,143.0,1070.0,186.0,100 to ? W/Kg,1986.0
+1187,Toyota,MR2 G-Limited ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0961.jpg,23600.0,MR,197.0,1220.0,206.0,120 to ? W/Kg,1997.0
+1188,Toyota,MR2 GT-S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0977.jpg,27130.0,MR,242.0,1270.0,304.0,142 to ? W/Kg,1997.0
+1189,Toyota,MR2 Spyder ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0946.jpg,19800.0,MR,138.0,970.0,170.0,106 to ? W/Kg,1999.0
+1190,Toyota,MR2 Spyder (6MT) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0948.jpg,21800.0,MR,138.0,980.0,170.0,105 to ? W/Kg,2002.0
+1191,Toyota,PRIUS G ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0935.jpg,24500.0,FF,98.0,1350.0,142.0,54 to 117 W/Kg,2009.0
+1192,Toyota,PRIUS G (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0916.jpg,22800.0,FF,71.0,1220.0,115.0,43 to 101 W/Kg,2002.0
+1193,Toyota,PRIUS G Touring Selection (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0922.jpg,25700.0,FF,76.0,1290.0,115.0,44 to ? W/Kg,2003.0
+1197,Toyota,SERA ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0929.jpg,18810.0,FF,108.0,910.0,132.0,89 to ? W/Kg,1992.0
+1198,Toyota,SOARER 2.5GT-T ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0973.jpg,35000.0,FR,276.0,1560.0,377.0,132 to ? W/Kg,1997.0
+1199,Toyota,SOARER 430SCV ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0971.jpg,60000.0,FR,276.0,1730.0,429.0,119 to ? W/Kg,2001.0
+1200,Toyota,SPORTS 800 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0919.jpg,32000.0,FR,44.0,580.0,67.0,57 to ? W/Kg,1965.0
+1201,Toyota,SPRINTER TRUENO BZ-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0952.jpg,18900.0,FF,163.0,1080.0,162.0,112 to ? W/Kg,1998.0
+1203,Toyota,SPRINTER TRUENO GT-APEX (AE86) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0936.jpg,15360.0,FR,128.0,940.0,149.0,102 to ? W/Kg,1983.0
+1204,Toyota,STARLET Glanza V ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0939.jpg,14300.0,FF,133.0,920.0,157.0,108 to ? W/Kg,1997.0
+1205,Toyota,SUPERAUTOBACS APEX MR-S ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0989.jpg,200000.0,MR,296.0,1125.0,441.0,196 to ? W/Kg,2000.0
+1206,Toyota,SUPRA 2.5GT Twin Turbo R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0974.jpg,32740.0,FR,276.0,1520.0,363.0,136 to ? W/Kg,1990.0
+1207,Toyota,SUPRA 3.0GT Turbo A ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0972.jpg,40510.0,FR,266.0,1530.0,358.0,130 to ? W/Kg,1988.0
+1208,Toyota,SUPRA RZ ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0983.jpg,43900.0,FR,276.0,1510.0,451.0,136 to 579 W/Kg,1997.0
+1209,Toyota,SUPRA SZ-R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0967.jpg,34000.0,FR,222.0,1450.0,284.0,114 to ? W/Kg,1997.0
+1210,Toyota,Supra GT500 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0993.jpg,900000.0,FR,473.0,1090.0,510.0,324 to ? W/Kg,2005.0
+1212,Toyota,Tacoma X-Runner ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0968.jpg,24520.0,FR,245.0,1687.0,382.0,108 to ? W/Kg,2004.0
+1213,Toyota,VOLTZ S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0932.jpg,17880.0,FF,130.0,1250.0,170.0,78 to ? W/Kg,2002.0
+1214,Toyota,Vitz F ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0921.jpg,13000.0,FF,94.0,990.0,121.0,71 to ? W/Kg,2012.0
+1215,Toyota,Vitz F ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0917.jpg,9800.0,FF,69.0,820.0,95.0,62 to ? W/Kg,1999.0
+1216,Toyota,Vitz RS 1.5 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0930.jpg,14530.0,FF,108.0,940.0,143.0,86 to ? W/Kg,2000.0
+1217,Toyota,Vitz RS 1.5 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0925.jpg,16380.0,FF,108.0,1070.0,141.0,76 to ? W/Kg,2007.0
+1218,Toyota,Vitz RS Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0943.jpg,18880.0,FF,148.0,980.0,196.0,112 to ? W/Kg,2002.0
+1219,Toyota,Vitz U Euro Sport Edition ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0923.jpg,12880.0,FF,87.0,850.0,123.0,76 to ? W/Kg,2000.0
+1220,Toyota,WEDSSPORT CELICA ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0990.jpg,200000.0,FR,296.0,1050.0,441.0,210 to ? W/Kg,2003.0
+1221,Toyota,WOODONE TOM,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0998.jpg,750000.0,FR,493.0,1100.0,588.0,335 to ? W/Kg,
+1222,Toyota,WiLL VS ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0954.jpg,20500.0,FF,187.0,1190.0,180.0,118 to ? W/Kg,2001.0
+1223,Toyota,Yaris F (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0918.jpg,9800.0,FF,69.0,820.0,95.0,62 to ? W/Kg,1999.0
+1224,Toyota,Yaris RS 1.5 (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0931.jpg,14530.0,FF,108.0,940.0,143.0,86 to ? W/Kg,2000.0
+1225,Toyota,Yaris RS Turbo (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0944.jpg,18880.0,FF,148.0,980.0,196.0,112 to ? W/Kg,2002.0
+1226,Toyota,Yaris U Euro Sport Edition (J) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0924.jpg,12880.0,FF,87.0,850.0,123.0,76 to ? W/Kg,2000.0
+1227,Toyota,YellowHat YMS Supra ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0992.jpg,900000.0,FR,473.0,1090.0,510.0,324 to ? W/Kg,2005.0
+1228,Toyota,au CERUMO Supra ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0994.jpg,750000.0,FR,463.0,1100.0,637.0,315 to ? W/Kg,2001.0
+1229,Toyota,bB 1.5Z X Version ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0920.jpg,15780.0,FF,107.0,1050.0,141.0,76 to ? W/Kg,2000.0
+1230,Toyota,ist 1.5S ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0926.jpg,16000.0,FF,107.0,1020.0,141.0,78 to ? W/Kg,2002.0
+1231,Triumph,Spitfire 1500 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0295.jpg,17200.0,FR,71.0,809.0,112.0,66 to ? W/Kg,1974.0
+1232,Vauxhall,Astra Super Touring Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0310.jpg,1000000.0,FR,454.0,1000.0,500.0,338 to ? W/Kg,2000.0
+1233,Vauxhall,Calibra Super Touring Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_0309.jpg,1250000.0,4WD,450.0,1060.0,300.0,316 to ? W/Kg,1994.0
+1234,Vauxhall,Corsa Comfort 1.4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0304.jpg,17960.0,FF,89.0,998.0,125.0,66 to ? W/Kg,2001.0
+1235,Vauxhall,Tigra 1.6i ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0305.jpg,29140.0,FF,105.0,1032.0,148.0,76 to ? W/Kg,1999.0
+1236,Vauxhall,VX220 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0307.jpg,44690.0,MR,145.0,850.0,203.0,127 to ? W/Kg,2000.0
+1237,Vauxhall,VX220 Turbo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0308.jpg,49550.0,MR,197.0,1005.0,250.0,146 to ? W/Kg,2000.0
+1238,Vauxhall,Vectra 3.2 V6 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0306.jpg,36530.0,FF,208.0,1510.0,300.0,103 to ? W/Kg,2003.0
+1239,Volkswagen,1200 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1186.jpg,60000.0,RR,34.0,1160.0,82.0,22 to 195 W/Kg,1966.0
+1240,Volkswagen,Beetle 1100 Standard (Type-11) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1184.jpg,40000.0,RR,25.0,720.0,67.0,25 to ? W/Kg,1949.0
+1241,Volkswagen,Bora V6 4MOTION ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1196.jpg,38910.0,4WD,201.0,1540.0,270.0,97 to ? W/Kg,2001.0
+1244,Volkswagen,Golf I GTI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1192.jpg,15000.0,FF,108.0,820.0,137.0,99 to ? W/Kg,1976.0
+1245,Volkswagen,Golf IV GTI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1193.jpg,31500.0,FF,148.0,1280.0,210.0,86 to ? W/Kg,2001.0
+1247,Volkswagen,Golf IV R32 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1200.jpg,43240.0,4WD,238.0,1460.0,319.0,121 to ? W/Kg,2003.0
+1248,Volkswagen,Golf V GTI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1198.jpg,32750.0,FF,197.0,1336.0,280.0,110 to ? W/Kg,2005.0
+1249,Volkswagen,Golf VI R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1202.jpg,50500.0,4WD,252.0,1530.0,330.0,123 to ? W/Kg,2010.0
+1250,Volkswagen,Karmann Ghia Coupe (Type-1) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1187.jpg,21200.0,RR,43.0,840.0,100.0,38 to ? W/Kg,1968.0
+1252,Volkswagen,Lupo Cup Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1195.jpg,30000.0,FF,123.0,840.0,140.0,110 to ? W/Kg,2000.0
+1253,Volkswagen,Lupo GTI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1191.jpg,24160.0,FF,123.0,975.0,152.0,94 to ? W/Kg,2001.0
+1254,Volkswagen,Lupo GTI Cup Car (J) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1194.jpg,30000.0,FF,123.0,1010.0,152.0,91 to ? W/Kg,2003.0
+1255,Volkswagen,Lupo1.4 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1189.jpg,15490.0,FF,99.0,933.0,126.0,79 to ? W/Kg,2002.0
+1256,Volkswagen,New Beetle 2.0 ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1188.jpg,25980.0,FF,115.0,1228.0,170.0,70 to ? W/Kg,2000.0
+1257,Volkswagen,New Beetle Cup Car ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1199.jpg,25000.0,FF,201.0,1170.0,270.0,128 to ? W/Kg,2000.0
+1258,Volkswagen,New Beetle RS¡ ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1197.jpg,94050.0,4WD,225.0,1515.0,319.0,111 to ? W/Kg,2000.0
+1259,Volkswagen,Polo GTI ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1190.jpg,26720.0,FF,123.0,1090.0,152.0,84 to ? W/Kg,2001.0
+1260,Volkswagen,Sambabus Typ 2 (T1) ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1183.jpg,72250.0,RR,34.0,1095.0,82.0,23 to 160 W/Kg,1962.0
+1262,Volkswagen,Scirocco GT24 (Volkswagen Motorsport) ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1204.jpg,420000.0,FF,320.0,1120.0,340.0,213 to ? W/Kg,2008.0
+1264,Volkswagen,Scirocco GT24 Base Model ,Race,https://www.kudosprime.com/gt6/images/cars/gt6_car_1205.jpg,420000.0,FF,320.0,1120.0,340.0,213 to ? W/Kg,2008.0
+1265,Volkswagen,Scirocco R ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1203.jpg,51500.0,FF,252.0,1410.0,330.0,133 to 298 W/Kg,2010.0
+1266,Volkswagen,W12 Nardo ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_1206.jpg,1250000.0,MR,574.0,1300.0,620.0,329 to ? W/Kg,2001.0
+1267,Volvo,240 GLT Estate ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0311.jpg,15920.0,FR,127.0,1890.0,190.0,50 to ? W/Kg,1988.0
+1268,Volvo,C30 R-Design ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0312.jpg,42000.0,FF,227.0,1430.0,319.0,118 to ? W/Kg,2009.0
+1269,Volvo,S60 T-5 Sport ,Street,https://www.kudosprime.com/gt6/images/cars/gt6_car_0313.jpg,35580.0,FF,246.0,1550.0,330.0,119 to ? W/Kg,2003.0
